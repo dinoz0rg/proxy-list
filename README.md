@@ -4,13 +4,22 @@
 A curated list of free public proxies, updated frequently to ensure accessibility and usability. These proxies are gathered from various sources and checked for functionality to provide a reliable list.
 
 ## Last Updated
-**Last Updated**: Monday, 09 December 2024, 03:51:53 UTC<br>
-**Total Scraped Proxies**: 28406<br>
-**Total Checked Proxies**: 14469
+**Last Updated**: Monday, 09 December 2024, 04:30:04 UTC<br>
+**Total Scraped Proxies**: 28324<br>
+**Total Checked Proxies**: 14265
 
-## Disclaimer
+## Download
+```bash
+# Scraped Proxies
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/scraped_proxies/http.txt
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/scraped_proxies/socks4.txt
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/scraped_proxies/socks5.txt
 
-This repository is intended for educational purposes only. Any misuse of the proxies listed here is strictly discouraged. Always comply with local laws and regulations when using proxies or related tools.
+# Checked Proxies
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/http.txt
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks4.txt
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks5.txt
+```
 
 ## Technology Stack
 
@@ -24,12 +33,15 @@ This repository is intended for educational purposes only. Any misuse of the pro
 3. Organized list of HTTP, SOCKS4, and SOCKS5 proxies.
 4. Continuous updates with GitHub commits every 2 hours.
 
----
+## Disclaimer
 
-### Contributions
+This repository is intended for educational purposes only. Any misuse of the proxies listed here is strictly discouraged. Always comply with local laws and regulations when using proxies or related tools.
+
+
+## Contributions
 
 Contributions are welcome! If you have ideas for improvement or additional sources for proxies, feel free to open a pull request or raise an issue.
 
 ---
 
-_Made with ❤️ and Python_
+_Made with 🐍💚_
