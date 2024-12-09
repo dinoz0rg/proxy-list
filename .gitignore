@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow specific files and directories
+!.gitignore
+!README.md
+!scraped_proxies/
+!checked_proxies/
+
+# Explicitly ignore these directories
+.idea/
+.venv/
