@@ -4,9 +4,9 @@
 A curated list of free public proxies, updated frequently to ensure accessibility and usability. These proxies are gathered from various sources and checked for functionality to provide a reliable list.
 
 ## Last Updated
-**Last Updated**: Monday, 26 May 2025, 08:29:42 UTC<br>
+**Last Updated**: Monday, 26 May 2025, 10:33:11 UTC<br>
 **Total Scraped Proxies**: 22097<br>
-**Total Checked Proxies**: 11813
+**Total Checked Proxies**: 11785
 
 ## Download
 ```bash
