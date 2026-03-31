@@ -1,13 +1,28 @@
-# Ignore everything
-*
+# Environment & secrets
+.env
+.env.*
 
-# Allow specific files and directories
-!.gitignore
-!README.md
-!scraped_proxies/
-!checked_proxies/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
 
-# Explicitly ignore these directories
-.idea/
+# Virtual environments
 .venv/
-venv
+venv/
+
+# Logs
+log/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store

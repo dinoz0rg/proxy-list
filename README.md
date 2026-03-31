@@ -4,9 +4,9 @@
 A curated list of free public proxies, updated frequently to ensure accessibility and usability. These proxies are gathered from various sources and checked for functionality to provide a reliable list.
 
 ## Last Updated
-**Last Updated**: Monday, 16 March 2026, 05:43:36 UTC<br>
-**Total Scraped Proxies**: 13200<br>
-**Total Checked Proxies**: 366
+**Last Updated**: Tuesday, 31 March 2026, 07:44:34 UTC<br>
+**Total Scraped Proxies**: 303317<br>
+**Total Checked Proxies**: 265
 
 ## Download
 ```bash
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks
 ## Technology Stack
 
 - **Language**: Python  
-- **Tools Used**: GitHub API, HTTP Requests, Multithreading for Proxy Validation  
+- **Tools Used**: GitHub API, asyncio, aiohttp, aiohttp-socks for async proxy scraping & validation
 
 ### Features
 
