@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow proxies directories and their contents
+!checked_proxies/
+!checked_proxies/**
+!scraped_proxies/
+!scraped_proxies/**
+
+# Allow README and gitignore
+!README.md
+!.gitignore
