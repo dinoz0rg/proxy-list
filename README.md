@@ -4,9 +4,9 @@
 A curated list of free public proxies, updated frequently to ensure accessibility and usability. These proxies are gathered from various sources and checked for functionality to provide a reliable list.
 
 ## Last Updated
-**Last Updated**: Friday, 03 April 2026, 20:32:46 UTC<br>
-**Total Scraped Proxies**: 302426<br>
-**Total Checked Proxies**: 906
+**Last Updated**: Friday, 03 April 2026, 22:31:33 UTC<br>
+**Total Scraped Proxies**: 302770<br>
+**Total Checked Proxies**: 1331
 
 ## Download
 ```bash
@@ -19,6 +19,9 @@ https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/scraped_proxies/socks
 https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/http.txt
 https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks4.txt
 https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks5.txt
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/http.json
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks4.json
+https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks5.json
 ```
 
 ## Technology Stack
