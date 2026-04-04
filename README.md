@@ -4,9 +4,11 @@
 A curated list of free public proxies, updated frequently to ensure accessibility and usability. These proxies are gathered from various sources and checked for functionality to provide a reliable list.
 
 ## Last Updated
-**Last Updated**: Saturday, 04 April 2026, 05:52:31 UTC<br>
-**Total Scraped Proxies**: 305857<br>
-**Total Checked Proxies**: 1384
+<!-- generated:stats:start -->
+**Last Updated**: Saturday, 04 April 2026, 08:43:44 UTC<br>
+**Total Scraped Proxies**: 304766<br>
+**Total Checked Proxies**: 1021
+<!-- generated:stats:end -->
 
 ## Download
 ```bash
@@ -38,6 +40,31 @@ https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks
 4. Transparent proxy detection to filter out non-anonymous proxies.
 5. Organized lists of HTTP, SOCKS4, and SOCKS5 proxies (plain text + JSON with metadata).
 6. Continuous updates with automated GitHub commits.
+
+## Configuration
+
+| Variable | Default | Description |
+| --- | --- | --- |
+| `IP_CHECKER` | `ipify` | IP-check endpoint to use. Supported values: `ipify`, `httpbin`, `httpbun`, `icanhazip`, `ifconfig`, `manual`. |
+| `MAX_WORKERS` | `100` | Maximum concurrent proxy checks. Minimum: `1`. |
+| `CHECK_TIMEOUT_CONNECT` | `5s` | Connection timeout for each proxy check. Accepts Go durations like `5s` / `750ms` and legacy numeric seconds like `5`. |
+| `CHECK_TIMEOUT_READ` | `10s` | Read timeout for each proxy check. Accepts Go durations like `10s` / `1500ms` and legacy numeric seconds like `10`. |
+| `MAX_RETRIES` | `1` | Additional retries after the first failed attempt. Minimum: `0`. |
+| `SLEEP_SECONDS` | `7200` | Delay between cycles when `RUN_ONCE=false`. |
+| `RUN_ONCE` | `false` | Run a single scrape/check/publish cycle and exit. |
+| `GITHUB_TOKEN` | _(empty)_ | Token used to publish refreshed lists back to the target repository. |
+| `GITHUB_REPO` | _(empty)_ | Target repository in `owner/repo` format. |
+
+## Checking modes
+
+- `manual` mode verifies that a known page loads through the proxy instead of comparing returned public IPs.
+- All other modes query public IP-check endpoints and reject transparent proxies when the returned IP matches the machine's detected real IP.
+- If real-IP detection fails temporarily, the checker now retries on later runs instead of disabling transparency filtering for the entire process.
+
+## Notes
+
+- Public proxy sources are noisy by nature; some entries are invalid, stale, duplicated, or rate-limited at the source.
+- Only the managed proxy list files are updated through the GitHub publisher; unrelated repository files are preserved.
 
 ## Disclaimer
 
