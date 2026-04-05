@@ -5,9 +5,9 @@ A curated list of free public proxies, updated frequently to ensure accessibilit
 
 ## Last Updated
 <!-- generated:stats:start -->
-**Last Updated**: Sunday, 05 April 2026, 05:06:28 UTC<br>
-**Total Scraped Proxies**: 304798<br>
-**Total Checked Proxies**: 1232
+**Last Updated**: Sunday, 05 April 2026, 08:58:19 UTC<br>
+**Total Scraped Proxies**: 305269<br>
+**Total Checked Proxies**: 1299
 <!-- generated:stats:end -->
 
 ## Download
@@ -25,41 +25,6 @@ https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/http.
 https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks4.json
 https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/checked_proxies/socks5.json
 ```
-
-## Technology Stack
-
-- **Language**: Go
-- **Proxy Protocols**: HTTP, SOCKS4, SOCKS5
-- **Tools Used**: GitHub API (`go-github`), `net/http`, `golang.org/x/net/proxy` for SOCKS support
-
-### Features
-
-1. Automated scraping of proxies from multiple public sources (9 scrapers running concurrently).
-2. High-performance validation using a fixed goroutine worker pool with configurable concurrency.
-3. IP-based and manual checking modes with fallback chain and retry logic.
-4. Transparent proxy detection to filter out non-anonymous proxies.
-5. Organized lists of HTTP, SOCKS4, and SOCKS5 proxies (plain text + JSON with metadata).
-6. Continuous updates with automated GitHub commits.
-
-## Configuration
-
-| Variable | Default | Description |
-| --- | --- | --- |
-| `IP_CHECKER` | `ipify` | IP-check endpoint to use. Supported values: `ipify`, `httpbin`, `httpbun`, `icanhazip`, `ifconfig`, `manual`. |
-| `MAX_WORKERS` | `100` | Maximum concurrent proxy checks. Minimum: `1`. |
-| `CHECK_TIMEOUT_CONNECT` | `5s` | Connection timeout for each proxy check. Accepts Go durations like `5s` / `750ms` and legacy numeric seconds like `5`. |
-| `CHECK_TIMEOUT_READ` | `10s` | Read timeout for each proxy check. Accepts Go durations like `10s` / `1500ms` and legacy numeric seconds like `10`. |
-| `MAX_RETRIES` | `1` | Additional retries after the first failed attempt. Minimum: `0`. |
-| `SLEEP_SECONDS` | `7200` | Delay between cycles when `RUN_ONCE=false`. |
-| `RUN_ONCE` | `false` | Run a single scrape/check/publish cycle and exit. |
-| `GITHUB_TOKEN` | _(empty)_ | Token used to publish refreshed lists back to the target repository. |
-| `GITHUB_REPO` | _(empty)_ | Target repository in `owner/repo` format. |
-
-## Checking modes
-
-- `manual` mode verifies that a known page loads through the proxy instead of comparing returned public IPs.
-- All other modes query public IP-check endpoints and reject transparent proxies when the returned IP matches the machine's detected real IP.
-- If real-IP detection fails temporarily, the checker now retries on later runs instead of disabling transparency filtering for the entire process.
 
 ## Notes
 
