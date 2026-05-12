@@ -5,9 +5,9 @@ A curated list of free public proxies, updated frequently to ensure accessibilit
 
 ## Last Updated
 <!-- generated:stats:start -->
-**Last Updated**: Tuesday, 12 May 2026, 00:12:16 UTC<br>
-**Total Scraped Proxies**: 365712<br>
-**Total Checked Proxies**: 14335
+**Last Updated**: Tuesday, 12 May 2026, 04:52:34 UTC<br>
+**Total Scraped Proxies**: 397390<br>
+**Total Checked Proxies**: 10157
 <!-- generated:stats:end -->
 
 ## Download
