@@ -2,1579 +2,1849 @@
   {
     "address": "47.250.211.53:1080",
     "proxy_type": "socks5",
-    "latency_ms": 55.561785,
-    "checked_at": "2026-08-13T01:13:19.664399627Z"
-  },
-  {
-    "address": "103.174.122.197:8199",
-    "proxy_type": "socks5",
-    "latency_ms": 314.907775,
-    "checked_at": "2026-08-12T23:41:04.972180166Z"
-  },
-  {
-    "address": "103.6.235.13:5555",
-    "proxy_type": "socks5",
-    "latency_ms": 341.03582900000004,
-    "checked_at": "2026-08-12T23:43:52.230582527Z"
-  },
-  {
-    "address": "123.58.219.171:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 343.812283,
-    "checked_at": "2026-08-12T23:56:46.568905559Z"
-  },
-  {
-    "address": "43.157.247.44:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 372.69989,
-    "checked_at": "2026-08-13T01:01:05.755922235Z"
-  },
-  {
-    "address": "144.24.111.128:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 395.338562,
-    "checked_at": "2026-08-13T00:01:26.101849501Z"
-  },
-  {
-    "address": "212.58.132.5:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 453.789856,
-    "checked_at": "2026-08-13T00:49:59.35546347Z"
-  },
-  {
-    "address": "171.253.95.238:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 457.480969,
-    "checked_at": "2026-08-13T00:23:10.400367001Z"
-  },
-  {
-    "address": "171.253.95.241:1083",
-    "proxy_type": "socks5",
-    "latency_ms": 467.29518399999995,
-    "checked_at": "2026-08-13T00:23:10.491847613Z"
-  },
-  {
-    "address": "171.253.95.241:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 467.824703,
-    "checked_at": "2026-08-13T00:23:10.960133443Z"
-  },
-  {
-    "address": "171.253.95.3:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 468.471226,
-    "checked_at": "2026-08-13T00:23:12.803073991Z"
-  },
-  {
-    "address": "171.253.92.42:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 475.399407,
-    "checked_at": "2026-08-13T00:23:09.942397594Z"
-  },
-  {
-    "address": "171.253.95.3:1083",
-    "proxy_type": "socks5",
-    "latency_ms": 477.698539,
-    "checked_at": "2026-08-13T00:23:12.615074968Z"
-  },
-  {
-    "address": "171.253.95.24:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 495.6125,
-    "checked_at": "2026-08-13T00:23:12.000565812Z"
-  },
-  {
-    "address": "191.223.220.23:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 497.298309,
-    "checked_at": "2026-08-13T00:39:23.275522748Z"
-  },
-  {
-    "address": "171.253.95.238:1083",
-    "proxy_type": "socks5",
-    "latency_ms": 506.245992,
-    "checked_at": "2026-08-13T00:23:10.386223553Z"
-  },
-  {
-    "address": "116.96.32.160:1083",
-    "proxy_type": "socks5",
-    "latency_ms": 519.979969,
-    "checked_at": "2026-08-12T23:53:59.625208534Z"
-  },
-  {
-    "address": "171.253.92.42:1083",
-    "proxy_type": "socks5",
-    "latency_ms": 538.6640729999999,
-    "checked_at": "2026-08-13T00:23:09.531643472Z"
-  },
-  {
-    "address": "171.253.95.24:1083",
-    "proxy_type": "socks5",
-    "latency_ms": 543.954336,
-    "checked_at": "2026-08-13T00:23:11.504468538Z"
-  },
-  {
-    "address": "103.9.185.33:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 676.6213309999999,
-    "checked_at": "2026-08-12T23:44:52.911260048Z"
-  },
-  {
-    "address": "43.164.136.189:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 805.114877,
-    "checked_at": "2026-08-13T01:01:11.903825248Z"
-  },
-  {
-    "address": "191.44.118.236:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 846.543014,
-    "checked_at": "2026-08-13T00:39:27.671480174Z"
-  },
-  {
-    "address": "147.45.221.111:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 909.7746460000001,
-    "checked_at": "2026-08-13T00:02:08.179509406Z"
-  },
-  {
-    "address": "221.176.85.236:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 928.9478439999999,
-    "checked_at": "2026-08-13T00:52:17.050616512Z"
-  },
-  {
-    "address": "43.156.84.41:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 933.978935,
-    "checked_at": "2026-08-13T01:01:06.152816877Z"
-  },
-  {
-    "address": "109.120.176.68:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 952.783279,
-    "checked_at": "2026-08-12T23:48:45.941189942Z"
-  },
-  {
-    "address": "109.123.251.109:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 957.066788,
-    "checked_at": "2026-08-12T23:48:46.352986016Z"
-  },
-  {
-    "address": "31.220.40.59:5080",
-    "proxy_type": "socks5",
-    "latency_ms": 976.4607910000001,
-    "checked_at": "2026-08-13T00:54:40.701984523Z"
-  },
-  {
-    "address": "101.36.104.46:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 988.076627,
-    "checked_at": "2026-08-12T23:36:06.99416472Z"
-  },
-  {
-    "address": "194.164.216.246:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 993.673599,
-    "checked_at": "2026-08-13T00:41:36.71659727Z"
-  },
-  {
-    "address": "45.144.54.40:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1016.991083,
-    "checked_at": "2026-08-13T01:03:10.813421049Z"
-  },
-  {
-    "address": "194.163.174.78:1085",
-    "proxy_type": "socks5",
-    "latency_ms": 1057.711345,
-    "checked_at": "2026-08-13T00:41:36.66608359Z"
-  },
-  {
-    "address": "77.110.102.252:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1068.5444909999999,
-    "checked_at": "2026-08-13T01:32:04.129506504Z"
-  },
-  {
-    "address": "85.143.254.38:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1069.866634,
-    "checked_at": "2026-08-13T01:38:55.602574619Z"
-  },
-  {
-    "address": "31.56.32.59:10800",
-    "proxy_type": "socks5",
-    "latency_ms": 1083.585678,
-    "checked_at": "2026-08-13T00:54:49.516558277Z"
-  },
-  {
-    "address": "43.164.3.124:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1102.677951,
-    "checked_at": "2026-08-13T01:01:13.246362759Z"
-  },
-  {
-    "address": "144.24.47.42:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1105.821698,
-    "checked_at": "2026-08-13T00:01:27.164779472Z"
-  },
-  {
-    "address": "151.115.99.193:10006",
-    "proxy_type": "socks5",
-    "latency_ms": 1164.752464,
-    "checked_at": "2026-08-13T00:02:57.419836227Z"
-  },
-  {
-    "address": "160.250.54.6:9000",
-    "proxy_type": "socks5",
-    "latency_ms": 1168.744679,
-    "checked_at": "2026-08-13T00:06:35.140666505Z"
-  },
-  {
-    "address": "38.175.197.50:5555",
-    "proxy_type": "socks5",
-    "latency_ms": 1178.299088,
-    "checked_at": "2026-08-13T00:57:59.787646802Z"
-  },
-  {
-    "address": "140.245.53.190:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 1188.06518,
-    "checked_at": "2026-08-13T00:00:41.925392826Z"
-  },
-  {
-    "address": "93.123.118.15:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1221.51576,
-    "checked_at": "2026-08-13T01:42:20.268254573Z"
-  },
-  {
-    "address": "89.208.106.37:32712",
-    "proxy_type": "socks5",
-    "latency_ms": 1234.8034779999998,
-    "checked_at": "2026-08-13T01:40:11.72790008Z"
-  },
-  {
-    "address": "67.207.92.87:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 1241.119165,
-    "checked_at": "2026-08-13T01:26:22.088341551Z"
-  },
-  {
-    "address": "144.21.39.252:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1251.286473,
-    "checked_at": "2026-08-13T00:01:26.251459535Z"
-  },
-  {
-    "address": "45.10.42.68:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1253.006408,
-    "checked_at": "2026-08-13T01:01:35.938898071Z"
+    "latency_ms": 42.433458,
+    "checked_at": "2026-08-13T05:54:53.888262561Z"
   },
   {
     "address": "45.43.63.37:10808",
     "proxy_type": "socks5",
-    "latency_ms": 1255.314844,
-    "checked_at": "2026-08-13T01:09:07.380146103Z"
+    "latency_ms": 92.35360700000001,
+    "checked_at": "2026-08-13T05:50:38.327451839Z"
   },
   {
-    "address": "161.35.90.93:1083",
+    "address": "140.245.53.190:1088",
     "proxy_type": "socks5",
-    "latency_ms": 1265.335385,
-    "checked_at": "2026-08-13T00:06:32.070513298Z"
+    "latency_ms": 94.053161,
+    "checked_at": "2026-08-13T04:41:54.837267764Z"
   },
   {
-    "address": "193.233.218.213:1080",
+    "address": "47.250.115.134:1080",
     "proxy_type": "socks5",
-    "latency_ms": 1288.78811,
-    "checked_at": "2026-08-13T00:40:58.906939829Z"
+    "latency_ms": 129.69740900000002,
+    "checked_at": "2026-08-13T05:54:42.197251404Z"
   },
   {
-    "address": "103.134.220.49:1080",
+    "address": "43.156.84.41:10808",
     "proxy_type": "socks5",
-    "latency_ms": 1309.308676,
-    "checked_at": "2026-08-12T23:38:06.167291102Z"
+    "latency_ms": 200.053216,
+    "checked_at": "2026-08-13T05:42:34.328133199Z"
   },
   {
-    "address": "213.136.92.91:1080",
+    "address": "103.157.78.22:8199",
     "proxy_type": "socks5",
-    "latency_ms": 1311.594041,
-    "checked_at": "2026-08-13T00:50:10.166710524Z"
+    "latency_ms": 209.834566,
+    "checked_at": "2026-08-13T04:19:59.596832725Z"
   },
   {
-    "address": "38.244.128.46:1080",
+    "address": "103.76.149.140:1080",
     "proxy_type": "socks5",
-    "latency_ms": 1330.914203,
-    "checked_at": "2026-08-13T00:58:21.480822638Z"
+    "latency_ms": 217.85934600000002,
+    "checked_at": "2026-08-13T04:25:06.29575876Z"
   },
   {
-    "address": "139.28.240.202:1082",
+    "address": "103.191.218.119:69",
     "proxy_type": "socks5",
-    "latency_ms": 1339.6857180000002,
-    "checked_at": "2026-08-13T00:00:03.699154862Z"
+    "latency_ms": 257.714699,
+    "checked_at": "2026-08-13T04:22:42.969391032Z"
   },
   {
-    "address": "171.253.95.238:1085",
+    "address": "8.215.25.3:2080",
     "proxy_type": "socks5",
-    "latency_ms": 1364.070467,
-    "checked_at": "2026-08-13T00:23:11.287944794Z"
-  },
-  {
-    "address": "171.253.95.3:1055",
-    "proxy_type": "socks5",
-    "latency_ms": 1402.608073,
-    "checked_at": "2026-08-13T00:23:12.972870527Z"
-  },
-  {
-    "address": "221.176.85.230:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1408.685732,
-    "checked_at": "2026-08-13T00:52:16.754163419Z"
-  },
-  {
-    "address": "66.163.119.55:10006",
-    "proxy_type": "socks5",
-    "latency_ms": 1412.616744,
-    "checked_at": "2026-08-13T01:26:09.675102225Z"
-  },
-  {
-    "address": "69.55.49.177:38182",
-    "proxy_type": "socks5",
-    "latency_ms": 1415.2371150000001,
-    "checked_at": "2026-08-13T01:28:52.896126751Z"
-  },
-  {
-    "address": "161.35.90.93:1081",
-    "proxy_type": "socks5",
-    "latency_ms": 1428.340201,
-    "checked_at": "2026-08-13T00:06:32.205758339Z"
-  },
-  {
-    "address": "107.173.230.93:40000",
-    "proxy_type": "socks5",
-    "latency_ms": 1456.028941,
-    "checked_at": "2026-08-12T23:48:30.324780847Z"
-  },
-  {
-    "address": "210.76.193.152:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 1461.7658099999999,
-    "checked_at": "2026-08-13T00:49:20.747694116Z"
-  },
-  {
-    "address": "121.169.46.116:1090",
-    "proxy_type": "socks5",
-    "latency_ms": 1463.096134,
-    "checked_at": "2026-08-12T23:55:55.200491237Z"
-  },
-  {
-    "address": "216.106.179.216:49260",
-    "proxy_type": "socks5",
-    "latency_ms": 1468.932568,
-    "checked_at": "2026-08-13T00:50:50.695672381Z"
-  },
-  {
-    "address": "5.45.119.70:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1518.278885,
-    "checked_at": "2026-08-13T01:16:53.470193755Z"
-  },
-  {
-    "address": "117.175.168.195:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1519.900936,
-    "checked_at": "2026-08-12T23:54:17.818082639Z"
-  },
-  {
-    "address": "94.156.114.45:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1520.998832,
-    "checked_at": "2026-08-13T01:43:12.172333034Z"
-  },
-  {
-    "address": "46.241.57.29:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1536.2722939999999,
-    "checked_at": "2026-08-13T01:10:50.29203136Z"
-  },
-  {
-    "address": "66.163.118.99:10006",
-    "proxy_type": "socks5",
-    "latency_ms": 1539.061638,
-    "checked_at": "2026-08-13T01:26:09.722306357Z"
-  },
-  {
-    "address": "93.91.162.222:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1545.073208,
-    "checked_at": "2026-08-13T01:43:01.850684765Z"
-  },
-  {
-    "address": "103.138.145.228:1999",
-    "proxy_type": "socks5",
-    "latency_ms": 1570.660262,
-    "checked_at": "2026-08-12T23:38:07.682634075Z"
-  },
-  {
-    "address": "38.49.210.79:40000",
-    "proxy_type": "socks5",
-    "latency_ms": 1585.136382,
-    "checked_at": "2026-08-13T00:58:28.821096357Z"
-  },
-  {
-    "address": "101.36.104.239:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 1594.2369649999998,
-    "checked_at": "2026-08-12T23:36:07.5182529Z"
-  },
-  {
-    "address": "77.110.114.114:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1648.0617280000001,
-    "checked_at": "2026-08-13T01:32:12.661101927Z"
-  },
-  {
-    "address": "83.147.216.208:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1648.7215480000002,
-    "checked_at": "2026-08-13T01:37:43.414089159Z"
-  },
-  {
-    "address": "103.138.145.204:1999",
-    "proxy_type": "socks5",
-    "latency_ms": 1669.279106,
-    "checked_at": "2026-08-12T23:38:13.279701461Z"
-  },
-  {
-    "address": "27.124.43.198:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1682.062299,
-    "checked_at": "2026-08-13T00:53:37.429357366Z"
-  },
-  {
-    "address": "144.124.232.204:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1701.916845,
-    "checked_at": "2026-08-13T00:01:36.000053291Z"
-  },
-  {
-    "address": "213.27.29.153:51000",
-    "proxy_type": "socks5",
-    "latency_ms": 1707.391108,
-    "checked_at": "2026-08-13T00:50:29.647029579Z"
+    "latency_ms": 293.28555,
+    "checked_at": "2026-08-13T06:17:15.102912807Z"
   },
   {
     "address": "43.134.58.45:1080",
     "proxy_type": "socks5",
-    "latency_ms": 1763.2564450000002,
-    "checked_at": "2026-08-13T01:00:53.050136549Z"
+    "latency_ms": 341.595278,
+    "checked_at": "2026-08-13T05:42:21.213089261Z"
   },
   {
-    "address": "180.158.222.93:1080",
+    "address": "212.58.132.5:1080",
     "proxy_type": "socks5",
-    "latency_ms": 1818.243425,
-    "checked_at": "2026-08-13T00:29:00.11845636Z"
+    "latency_ms": 348.562843,
+    "checked_at": "2026-08-13T05:31:21.252902595Z"
   },
   {
-    "address": "194.67.111.148:1080",
+    "address": "103.6.235.13:5555",
     "proxy_type": "socks5",
-    "latency_ms": 1819.8858630000002,
-    "checked_at": "2026-08-13T00:42:00.503017274Z"
+    "latency_ms": 360.825147,
+    "checked_at": "2026-08-13T04:24:41.652502535Z"
   },
   {
-    "address": "216.106.179.216:49193",
+    "address": "203.189.150.44:1080",
     "proxy_type": "socks5",
-    "latency_ms": 1879.191347,
-    "checked_at": "2026-08-13T00:50:33.601292902Z"
-  },
-  {
-    "address": "161.35.90.93:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 1914.487395,
-    "checked_at": "2026-08-13T00:06:32.702789682Z"
-  },
-  {
-    "address": "78.140.223.167:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 1943.6617539999997,
-    "checked_at": "2026-08-13T01:32:34.036854697Z"
-  },
-  {
-    "address": "195.91.129.101:1337",
-    "proxy_type": "socks5",
-    "latency_ms": 1972.5273699999998,
-    "checked_at": "2026-08-13T00:43:02.571917738Z"
+    "latency_ms": 365.097679,
+    "checked_at": "2026-08-13T05:28:28.628752481Z"
   },
   {
     "address": "27.124.43.203:1080",
     "proxy_type": "socks5",
-    "latency_ms": 2054.647511,
-    "checked_at": "2026-08-13T00:53:37.430490436Z"
+    "latency_ms": 400.179159,
+    "checked_at": "2026-08-13T05:35:03.570015664Z"
   },
   {
-    "address": "167.86.79.35:1080",
+    "address": "103.72.68.111:1",
     "proxy_type": "socks5",
-    "latency_ms": 2057.4763,
-    "checked_at": "2026-08-13T00:08:24.998716897Z"
+    "latency_ms": 426.128696,
+    "checked_at": "2026-08-13T04:24:55.425720694Z"
   },
   {
     "address": "27.124.43.201:1080",
     "proxy_type": "socks5",
-    "latency_ms": 2071.796074,
-    "checked_at": "2026-08-13T00:53:37.427391505Z"
+    "latency_ms": 437.11029299999996,
+    "checked_at": "2026-08-13T05:35:03.575995248Z"
   },
   {
-    "address": "109.63.234.128:10808",
+    "address": "27.124.43.198:1080",
     "proxy_type": "socks5",
-    "latency_ms": 2084.9202619999996,
-    "checked_at": "2026-08-12T23:51:18.81825815Z"
-  },
-  {
-    "address": "156.245.246.51:7890",
-    "proxy_type": "socks5",
-    "latency_ms": 2132.305338,
-    "checked_at": "2026-08-13T00:04:58.478004344Z"
-  },
-  {
-    "address": "129.80.59.128:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 2203.170047,
-    "checked_at": "2026-08-12T23:57:41.937332858Z"
-  },
-  {
-    "address": "194.163.174.78:1086",
-    "proxy_type": "socks5",
-    "latency_ms": 2216.4041939999997,
-    "checked_at": "2026-08-13T00:41:37.836013996Z"
-  },
-  {
-    "address": "109.172.55.227:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 2229.304393,
-    "checked_at": "2026-08-12T23:48:53.555355907Z"
-  },
-  {
-    "address": "51.79.202.70:3128",
-    "proxy_type": "socks5",
-    "latency_ms": 2244.951606,
-    "checked_at": "2026-08-13T01:18:02.762754077Z"
-  },
-  {
-    "address": "221.176.85.228:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2311.079205,
-    "checked_at": "2026-08-13T00:52:16.961291987Z"
-  },
-  {
-    "address": "213.230.121.41:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2317.1646379999997,
-    "checked_at": "2026-08-13T00:50:22.864365016Z"
-  },
-  {
-    "address": "116.48.170.221:11000",
-    "proxy_type": "socks5",
-    "latency_ms": 2387.9474,
-    "checked_at": "2026-08-12T23:53:59.255814275Z"
-  },
-  {
-    "address": "45.61.129.165:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 2405.1908810000004,
-    "checked_at": "2026-08-13T01:09:26.264797296Z"
-  },
-  {
-    "address": "66.59.197.62:4000",
-    "proxy_type": "socks5",
-    "latency_ms": 2525.9612580000003,
-    "checked_at": "2026-08-13T01:26:17.923151272Z"
-  },
-  {
-    "address": "220.158.233.26:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2527.27729,
-    "checked_at": "2026-08-13T00:52:11.425798699Z"
-  },
-  {
-    "address": "109.199.105.194:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2546.366131,
-    "checked_at": "2026-08-12T23:48:55.377278237Z"
-  },
-  {
-    "address": "118.70.67.11:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2551.8165719999997,
-    "checked_at": "2026-08-12T23:54:45.816099628Z"
-  },
-  {
-    "address": "87.120.187.113:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2576.562224,
-    "checked_at": "2026-08-13T01:39:31.013881098Z"
-  },
-  {
-    "address": "103.88.234.239:40009",
-    "proxy_type": "socks5",
-    "latency_ms": 2584.124374,
-    "checked_at": "2026-08-12T23:44:47.46016225Z"
-  },
-  {
-    "address": "103.75.118.84:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2595.786427,
-    "checked_at": "2026-08-12T23:44:10.047064513Z"
-  },
-  {
-    "address": "103.197.241.209:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2603.702514,
-    "checked_at": "2026-08-12T23:42:10.761035514Z"
-  },
-  {
-    "address": "103.176.187.228:9090",
-    "proxy_type": "socks5",
-    "latency_ms": 2606.8937459999997,
-    "checked_at": "2026-08-12T23:41:16.647872731Z"
-  },
-  {
-    "address": "115.127.53.114:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2613.416215,
-    "checked_at": "2026-08-12T23:52:56.472863883Z"
-  },
-  {
-    "address": "195.135.255.98:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2649.2634630000002,
-    "checked_at": "2026-08-13T00:42:11.505193506Z"
-  },
-  {
-    "address": "188.128.86.74:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2674.700293,
-    "checked_at": "2026-08-13T00:37:01.045076536Z"
-  },
-  {
-    "address": "165.154.20.187:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 2719.514646,
-    "checked_at": "2026-08-13T00:07:20.659846683Z"
-  },
-  {
-    "address": "185.185.80.58:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 2752.547523,
-    "checked_at": "2026-08-13T00:32:23.965722321Z"
-  },
-  {
-    "address": "152.70.107.226:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2768.519217,
-    "checked_at": "2026-08-13T00:03:20.869153716Z"
-  },
-  {
-    "address": "103.136.107.70:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2786.161729,
-    "checked_at": "2026-08-12T23:38:06.08796754Z"
-  },
-  {
-    "address": "93.100.133.197:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2829.22912,
-    "checked_at": "2026-08-13T01:42:21.136964849Z"
-  },
-  {
-    "address": "15.235.172.212:49152",
-    "proxy_type": "socks5",
-    "latency_ms": 2899.5521750000003,
-    "checked_at": "2026-08-13T00:02:49.681052727Z"
-  },
-  {
-    "address": "5.104.206.191:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2910.575456,
-    "checked_at": "2026-08-13T01:16:02.63677819Z"
-  },
-  {
-    "address": "193.168.198.240:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 2943.539871,
-    "checked_at": "2026-08-13T00:40:32.568367183Z"
-  },
-  {
-    "address": "144.91.121.61:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 2995.638857,
-    "checked_at": "2026-08-13T00:01:35.171789854Z"
-  },
-  {
-    "address": "195.19.50.85:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3050.42024,
-    "checked_at": "2026-08-13T00:42:25.377154003Z"
-  },
-  {
-    "address": "88.201.248.85:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3078.11004,
-    "checked_at": "2026-08-13T01:39:49.131801649Z"
-  },
-  {
-    "address": "193.25.215.182:22222",
-    "proxy_type": "socks5",
-    "latency_ms": 3164.6837899999996,
-    "checked_at": "2026-08-13T00:41:10.494673087Z"
-  },
-  {
-    "address": "178.128.82.131:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 3192.5780050000003,
-    "checked_at": "2026-08-13T00:27:49.389448292Z"
-  },
-  {
-    "address": "163.61.70.4:9000",
-    "proxy_type": "socks5",
-    "latency_ms": 3297.5341399999998,
-    "checked_at": "2026-08-13T00:07:06.352557711Z"
-  },
-  {
-    "address": "115.136.121.54:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 3297.732936,
-    "checked_at": "2026-08-12T23:52:57.669531696Z"
-  },
-  {
-    "address": "45.95.233.88:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 3376.688271,
-    "checked_at": "2026-08-13T01:10:30.892270832Z"
-  },
-  {
-    "address": "185.200.176.236:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3400.701935,
-    "checked_at": "2026-08-13T00:32:32.972573332Z"
-  },
-  {
-    "address": "67.210.146.50:11080",
-    "proxy_type": "socks5",
-    "latency_ms": 3453.176192,
-    "checked_at": "2026-08-13T01:26:24.359217168Z"
-  },
-  {
-    "address": "149.62.186.244:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3458.2972330000002,
-    "checked_at": "2026-08-13T00:02:44.811114479Z"
-  },
-  {
-    "address": "165.16.192.81:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3466.873853,
-    "checked_at": "2026-08-13T00:07:23.011521436Z"
-  },
-  {
-    "address": "202.62.52.120:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3505.376477,
-    "checked_at": "2026-08-13T00:46:41.588746213Z"
-  },
-  {
-    "address": "103.189.218.76:6969",
-    "proxy_type": "socks5",
-    "latency_ms": 3514.423532,
-    "checked_at": "2026-08-12T23:41:48.933148334Z"
-  },
-  {
-    "address": "115.193.135.121:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3564.9702049999996,
-    "checked_at": "2026-08-12T23:53:03.355245586Z"
-  },
-  {
-    "address": "163.5.214.119:9082",
-    "proxy_type": "socks5",
-    "latency_ms": 3576.373192,
-    "checked_at": "2026-08-13T00:07:05.57524971Z"
-  },
-  {
-    "address": "103.150.206.77:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3615.148499,
-    "checked_at": "2026-08-12T23:38:48.931041354Z"
-  },
-  {
-    "address": "195.19.50.114:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3653.710103,
-    "checked_at": "2026-08-13T00:42:25.834714259Z"
-  },
-  {
-    "address": "120.24.22.233:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3690.071489,
-    "checked_at": "2026-08-12T23:55:40.041590115Z"
-  },
-  {
-    "address": "194.190.169.197:3701",
-    "proxy_type": "socks5",
-    "latency_ms": 3802.08656,
-    "checked_at": "2026-08-13T00:42:07.127236504Z"
-  },
-  {
-    "address": "141.148.8.171:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 3862.098407,
-    "checked_at": "2026-08-13T00:01:04.654284013Z"
-  },
-  {
-    "address": "116.203.19.71:9122",
-    "proxy_type": "socks5",
-    "latency_ms": 3871.695359,
-    "checked_at": "2026-08-12T23:54:11.583045036Z"
+    "latency_ms": 470.565674,
+    "checked_at": "2026-08-13T05:35:03.576074125Z"
   },
   {
     "address": "45.194.33.12:30001",
     "proxy_type": "socks5",
-    "latency_ms": 3894.075284,
-    "checked_at": "2026-08-13T01:07:27.002357017Z"
+    "latency_ms": 519.46941,
+    "checked_at": "2026-08-13T05:48:54.734314635Z"
   },
   {
-    "address": "62.133.62.27:1082",
+    "address": "171.253.92.42:1111",
     "proxy_type": "socks5",
-    "latency_ms": 3901.2494690000003,
-    "checked_at": "2026-08-13T01:19:39.903708805Z"
+    "latency_ms": 539.574705,
+    "checked_at": "2026-08-13T05:04:28.589132642Z"
   },
   {
-    "address": "171.253.92.42:1085",
+    "address": "171.253.95.24:1111",
     "proxy_type": "socks5",
-    "latency_ms": 3958.27305,
-    "checked_at": "2026-08-13T00:23:12.964360709Z"
+    "latency_ms": 539.904328,
+    "checked_at": "2026-08-13T05:04:32.397967436Z"
   },
   {
-    "address": "171.253.95.24:1085",
+    "address": "171.253.95.238:1111",
     "proxy_type": "socks5",
-    "latency_ms": 3958.738676,
-    "checked_at": "2026-08-13T00:23:20.420035646Z"
+    "latency_ms": 543.454979,
+    "checked_at": "2026-08-13T05:04:29.400811608Z"
   },
   {
-    "address": "103.142.190.78:10808",
+    "address": "103.136.106.5:1081",
     "proxy_type": "socks5",
-    "latency_ms": 3971.472151,
-    "checked_at": "2026-08-12T23:38:21.442876079Z"
+    "latency_ms": 570.541397,
+    "checked_at": "2026-08-13T04:18:33.921398728Z"
   },
   {
-    "address": "176.37.107.86:11111",
+    "address": "171.253.95.3:1111",
     "proxy_type": "socks5",
-    "latency_ms": 4029.435644,
-    "checked_at": "2026-08-13T00:26:59.657447498Z"
+    "latency_ms": 609.433227,
+    "checked_at": "2026-08-13T05:04:33.035256879Z"
   },
   {
-    "address": "112.28.149.152:8443",
+    "address": "59.152.97.233:1080",
     "proxy_type": "socks5",
-    "latency_ms": 4030.7119050000006,
-    "checked_at": "2026-08-12T23:52:08.157431141Z"
+    "latency_ms": 649.743442,
+    "checked_at": "2026-08-13T06:00:36.023167629Z"
   },
   {
-    "address": "129.150.57.5:55555",
+    "address": "144.24.111.128:1088",
     "proxy_type": "socks5",
-    "latency_ms": 4042.966979,
-    "checked_at": "2026-08-12T23:57:36.111868989Z"
+    "latency_ms": 658.9062220000001,
+    "checked_at": "2026-08-13T04:42:34.967498078Z"
   },
   {
-    "address": "194.163.174.78:1081",
+    "address": "171.253.95.241:1111",
     "proxy_type": "socks5",
-    "latency_ms": 4090.6873399999995,
-    "checked_at": "2026-08-13T00:41:55.153496225Z"
+    "latency_ms": 671.687179,
+    "checked_at": "2026-08-13T05:04:31.006439557Z"
   },
   {
-    "address": "171.253.95.24:1081",
+    "address": "103.118.85.144:1080",
     "proxy_type": "socks5",
-    "latency_ms": 4145.666277,
-    "checked_at": "2026-08-13T00:23:14.8723201Z"
+    "latency_ms": 688.20452,
+    "checked_at": "2026-08-13T04:17:50.855379317Z"
   },
   {
-    "address": "141.148.158.143:1080",
+    "address": "191.44.118.236:1080",
     "proxy_type": "socks5",
-    "latency_ms": 4201.537130000001,
-    "checked_at": "2026-08-13T00:00:59.5154632Z"
+    "latency_ms": 838.444832,
+    "checked_at": "2026-08-13T05:20:52.9200359Z"
   },
   {
-    "address": "45.74.178.43:9114",
+    "address": "147.45.221.112:1082",
     "proxy_type": "socks5",
-    "latency_ms": 4221.882099,
-    "checked_at": "2026-08-13T01:10:03.492599818Z"
+    "latency_ms": 906.0099630000001,
+    "checked_at": "2026-08-13T04:43:24.208862621Z"
   },
   {
-    "address": "109.200.111.171:1080",
+    "address": "171.253.95.238:1083",
     "proxy_type": "socks5",
-    "latency_ms": 4286.933245,
-    "checked_at": "2026-08-12T23:48:57.527155804Z"
+    "latency_ms": 906.152861,
+    "checked_at": "2026-08-13T05:04:29.347107866Z"
   },
   {
-    "address": "123.249.14.223:21677",
+    "address": "213.136.92.91:1080",
     "proxy_type": "socks5",
-    "latency_ms": 4294.502682,
-    "checked_at": "2026-08-12T23:56:48.72126062Z"
+    "latency_ms": 926.70616,
+    "checked_at": "2026-08-13T05:31:31.402216848Z"
   },
   {
-    "address": "195.19.48.214:1080",
+    "address": "171.253.95.3:1089",
     "proxy_type": "socks5",
-    "latency_ms": 4336.906463,
-    "checked_at": "2026-08-13T00:42:25.368053976Z"
+    "latency_ms": 974.9028790000001,
+    "checked_at": "2026-08-13T05:04:33.375301041Z"
   },
   {
-    "address": "103.169.254.155:1080",
+    "address": "171.253.95.3:1083",
     "proxy_type": "socks5",
-    "latency_ms": 4351.419523,
-    "checked_at": "2026-08-12T23:40:44.338354292Z"
+    "latency_ms": 1013.337322,
+    "checked_at": "2026-08-13T05:04:33.375438777Z"
   },
   {
-    "address": "147.45.60.110:1082",
+    "address": "194.164.216.246:1080",
     "proxy_type": "socks5",
-    "latency_ms": 4406.17768,
-    "checked_at": "2026-08-13T00:02:17.368211095Z"
+    "latency_ms": 1038.266717,
+    "checked_at": "2026-08-13T05:23:02.515280226Z"
   },
   {
-    "address": "158.220.101.43:1080",
+    "address": "45.133.210.241:1080",
     "proxy_type": "socks5",
-    "latency_ms": 4432.909497,
-    "checked_at": "2026-08-13T00:05:47.618788914Z"
+    "latency_ms": 1046.412116,
+    "checked_at": "2026-08-13T05:43:49.895221513Z"
   },
   {
-    "address": "171.253.95.241:1081",
+    "address": "171.253.92.42:1083",
     "proxy_type": "socks5",
-    "latency_ms": 4473.883112,
-    "checked_at": "2026-08-13T00:23:14.442115316Z"
-  },
-  {
-    "address": "139.28.240.201:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 4492.040563,
-    "checked_at": "2026-08-13T00:00:01.340841946Z"
-  },
-  {
-    "address": "150.241.89.209:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 4495.982395999999,
-    "checked_at": "2026-08-13T00:02:58.938422442Z"
-  },
-  {
-    "address": "171.253.95.24:1033",
-    "proxy_type": "socks5",
-    "latency_ms": 4523.811191,
-    "checked_at": "2026-08-13T00:23:15.064300548Z"
-  },
-  {
-    "address": "51.222.104.72:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 4549.132406,
-    "checked_at": "2026-08-13T01:17:53.378497433Z"
-  },
-  {
-    "address": "43.138.214.122:9981",
-    "proxy_type": "socks5",
-    "latency_ms": 4550.938141,
-    "checked_at": "2026-08-13T01:00:59.93820585Z"
-  },
-  {
-    "address": "84.234.28.219:9080",
-    "proxy_type": "socks5",
-    "latency_ms": 4577.043347,
-    "checked_at": "2026-08-13T01:38:04.079226351Z"
-  },
-  {
-    "address": "202.62.42.92:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 4582.825849,
-    "checked_at": "2026-08-13T00:46:36.451584556Z"
-  },
-  {
-    "address": "188.235.21.247:2080",
-    "proxy_type": "socks5",
-    "latency_ms": 4592.062372,
-    "checked_at": "2026-08-13T00:37:24.675433812Z"
-  },
-  {
-    "address": "85.95.167.198:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 4626.55481,
-    "checked_at": "2026-08-13T01:39:25.329375859Z"
-  },
-  {
-    "address": "45.32.119.194:9000",
-    "proxy_type": "socks5",
-    "latency_ms": 4646.361674,
-    "checked_at": "2026-08-13T01:08:55.056169466Z"
-  },
-  {
-    "address": "163.53.204.178:9813",
-    "proxy_type": "socks5",
-    "latency_ms": 4664.781342,
-    "checked_at": "2026-08-13T00:07:06.804880013Z"
-  },
-  {
-    "address": "150.136.58.221:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 4813.211851,
-    "checked_at": "2026-08-13T00:03:03.181268592Z"
-  },
-  {
-    "address": "87.239.251.202:1081",
-    "proxy_type": "socks5",
-    "latency_ms": 4853.46797,
-    "checked_at": "2026-08-13T01:39:36.313210644Z"
-  },
-  {
-    "address": "171.25.158.95:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 4887.52985,
-    "checked_at": "2026-08-13T00:23:11.756559678Z"
-  },
-  {
-    "address": "89.169.168.25:6101",
-    "proxy_type": "socks5",
-    "latency_ms": 4907.969348,
-    "checked_at": "2026-08-13T01:40:06.314296847Z"
-  },
-  {
-    "address": "193.107.75.242:33500",
-    "proxy_type": "socks5",
-    "latency_ms": 4990.393226,
-    "checked_at": "2026-08-13T00:40:13.603390549Z"
-  },
-  {
-    "address": "109.120.133.253:9999",
-    "proxy_type": "socks5",
-    "latency_ms": 5095.12114,
-    "checked_at": "2026-08-12T23:48:48.895905417Z"
-  },
-  {
-    "address": "147.45.72.31:45700",
-    "proxy_type": "socks5",
-    "latency_ms": 5120.970977,
-    "checked_at": "2026-08-13T00:02:12.849463839Z"
-  },
-  {
-    "address": "91.222.237.40:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5139.497614,
-    "checked_at": "2026-08-13T01:41:34.511813281Z"
-  },
-  {
-    "address": "171.253.95.3:1085",
-    "proxy_type": "socks5",
-    "latency_ms": 5170.836088,
-    "checked_at": "2026-08-13T00:23:22.834676539Z"
-  },
-  {
-    "address": "104.207.139.62:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5180.501945999999,
-    "checked_at": "2026-08-12T23:45:53.801800531Z"
-  },
-  {
-    "address": "171.253.92.42:1081",
-    "proxy_type": "socks5",
-    "latency_ms": 5201.080912,
-    "checked_at": "2026-08-13T00:23:19.639123574Z"
-  },
-  {
-    "address": "193.233.88.128:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5209.885749,
-    "checked_at": "2026-08-13T00:41:10.7012567Z"
-  },
-  {
-    "address": "171.253.95.241:1085",
-    "proxy_type": "socks5",
-    "latency_ms": 5214.108805000001,
-    "checked_at": "2026-08-13T00:23:15.597933832Z"
-  },
-  {
-    "address": "140.238.241.74:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5240.033576,
-    "checked_at": "2026-08-13T00:00:44.56728662Z"
-  },
-  {
-    "address": "144.22.165.206:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 5259.908253,
-    "checked_at": "2026-08-13T00:01:30.74370524Z"
-  },
-  {
-    "address": "91.149.233.129:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 5318.685081,
-    "checked_at": "2026-08-13T01:41:20.47527599Z"
-  },
-  {
-    "address": "61.177.181.46:10808",
-    "proxy_type": "socks5",
-    "latency_ms": 5378.686966,
-    "checked_at": "2026-08-13T01:19:10.939163221Z"
-  },
-  {
-    "address": "147.45.60.241:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 5457.486327,
-    "checked_at": "2026-08-13T00:02:13.056906198Z"
-  },
-  {
-    "address": "95.85.233.144:18443",
-    "proxy_type": "socks5",
-    "latency_ms": 5637.025720000001,
-    "checked_at": "2026-08-13T01:44:02.535972961Z"
-  },
-  {
-    "address": "220.158.232.118:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5767.75012,
-    "checked_at": "2026-08-13T00:52:16.263348352Z"
-  },
-  {
-    "address": "51.159.97.242:10006",
-    "proxy_type": "socks5",
-    "latency_ms": 5901.467737,
-    "checked_at": "2026-08-13T01:18:01.734517817Z"
-  },
-  {
-    "address": "107.172.5.202:7890",
-    "proxy_type": "socks5",
-    "latency_ms": 5931.235232,
-    "checked_at": "2026-08-12T23:48:32.12320369Z"
-  },
-  {
-    "address": "62.113.113.114:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5972.135804,
-    "checked_at": "2026-08-13T01:19:40.271509768Z"
-  },
-  {
-    "address": "45.8.88.236:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 5978.454562,
-    "checked_at": "2026-08-13T01:10:21.271704216Z"
-  },
-  {
-    "address": "15.235.176.12:60606",
-    "proxy_type": "socks5",
-    "latency_ms": 6063.766191,
-    "checked_at": "2026-08-13T00:03:06.123143114Z"
-  },
-  {
-    "address": "89.191.226.51:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 6202.85946,
-    "checked_at": "2026-08-13T01:40:28.018996482Z"
-  },
-  {
-    "address": "43.153.71.188:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 6388.896983000001,
-    "checked_at": "2026-08-13T01:01:06.789801709Z"
-  },
-  {
-    "address": "38.76.215.92:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 6421.815679,
-    "checked_at": "2026-08-13T00:59:01.200444038Z"
-  },
-  {
-    "address": "192.9.171.168:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 6452.530008,
-    "checked_at": "2026-08-13T00:40:02.357070253Z"
-  },
-  {
-    "address": "5.255.113.177:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 6588.794803,
-    "checked_at": "2026-08-13T01:16:54.067951438Z"
-  },
-  {
-    "address": "192.142.52.65:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 6598.770165999999,
-    "checked_at": "2026-08-13T00:39:44.841802224Z"
-  },
-  {
-    "address": "66.163.127.204:10006",
-    "proxy_type": "socks5",
-    "latency_ms": 6631.289581,
-    "checked_at": "2026-08-13T01:26:14.904717962Z"
-  },
-  {
-    "address": "94.73.251.19:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 6669.411426,
-    "checked_at": "2026-08-13T01:43:34.98401199Z"
-  },
-  {
-    "address": "144.91.83.39:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 6886.652016,
-    "checked_at": "2026-08-13T00:01:40.519244473Z"
-  },
-  {
-    "address": "88.218.206.170:5432",
-    "proxy_type": "socks5",
-    "latency_ms": 6992.926779,
-    "checked_at": "2026-08-13T01:39:54.846135001Z"
-  },
-  {
-    "address": "185.221.153.22:8443",
-    "proxy_type": "socks5",
-    "latency_ms": 7055.33693,
-    "checked_at": "2026-08-13T00:32:51.519601011Z"
-  },
-  {
-    "address": "129.151.130.247:1111",
-    "proxy_type": "socks5",
-    "latency_ms": 7253.569302,
-    "checked_at": "2026-08-12T23:57:39.571855258Z"
-  },
-  {
-    "address": "223.254.141.102:6604",
-    "proxy_type": "socks5",
-    "latency_ms": 7269.1624790000005,
-    "checked_at": "2026-08-13T00:52:59.444001821Z"
-  },
-  {
-    "address": "160.30.113.24:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 7447.988228,
-    "checked_at": "2026-08-13T00:06:27.889617408Z"
-  },
-  {
-    "address": "43.162.94.99:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 7570.157598,
-    "checked_at": "2026-08-13T01:01:22.488077492Z"
-  },
-  {
-    "address": "185.93.104.246:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 7600.403638,
-    "checked_at": "2026-08-13T00:33:48.090012487Z"
-  },
-  {
-    "address": "39.108.69.221:5002",
-    "proxy_type": "socks5",
-    "latency_ms": 7685.840144,
-    "checked_at": "2026-08-13T00:59:59.997486351Z"
-  },
-  {
-    "address": "89.44.86.33:10800",
-    "proxy_type": "socks5",
-    "latency_ms": 7779.964521,
-    "checked_at": "2026-08-13T01:40:57.844261843Z"
-  },
-  {
-    "address": "43.153.79.124:47783",
-    "proxy_type": "socks5",
-    "latency_ms": 8013.107344999999,
-    "checked_at": "2026-08-13T01:01:08.790951222Z"
-  },
-  {
-    "address": "220.112.1.194:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 8027.879047,
-    "checked_at": "2026-08-13T00:52:31.928197738Z"
-  },
-  {
-    "address": "194.163.174.78:1082",
-    "proxy_type": "socks5",
-    "latency_ms": 8040.960123,
-    "checked_at": "2026-08-13T00:41:59.10569754Z"
-  },
-  {
-    "address": "65.108.246.14:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 8063.261081000001,
-    "checked_at": "2026-08-13T01:21:43.23766575Z"
-  },
-  {
-    "address": "194.163.174.78:1089",
-    "proxy_type": "socks5",
-    "latency_ms": 8070.20499,
-    "checked_at": "2026-08-13T00:41:43.707489096Z"
-  },
-  {
-    "address": "211.162.68.57:1088",
-    "proxy_type": "socks5",
-    "latency_ms": 8593.606365,
-    "checked_at": "2026-08-13T00:49:28.836796333Z"
-  },
-  {
-    "address": "34.84.162.206:38081",
-    "proxy_type": "socks5",
-    "latency_ms": 8853.350953,
-    "checked_at": "2026-08-13T00:55:21.999435324Z"
-  },
-  {
-    "address": "82.114.228.67:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 8886.653502,
-    "checked_at": "2026-08-13T01:37:27.182116415Z"
-  },
-  {
-    "address": "163.192.14.135:50161",
-    "proxy_type": "socks5",
-    "latency_ms": 9088.582097,
-    "checked_at": "2026-08-13T00:07:10.375228677Z"
-  },
-  {
-    "address": "31.76.15.189:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 9183.445627,
-    "checked_at": "2026-08-13T00:55:10.776168388Z"
-  },
-  {
-    "address": "201.184.165.91:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 9448.962791,
-    "checked_at": "2026-08-13T00:45:43.548617488Z"
-  },
-  {
-    "address": "103.179.189.64:9191",
-    "proxy_type": "socks5",
-    "latency_ms": 9510.926284,
-    "checked_at": "2026-08-12T23:41:27.3743636Z"
-  },
-  {
-    "address": "144.124.227.88:3129",
-    "proxy_type": "socks5",
-    "latency_ms": 9539.28854,
-    "checked_at": "2026-08-13T00:01:38.563132481Z"
-  },
-  {
-    "address": "135.181.14.149:5080",
-    "proxy_type": "socks5",
-    "latency_ms": 9683.70484,
-    "checked_at": "2026-08-12T23:59:09.871930518Z"
-  },
-  {
-    "address": "114.80.41.216:7890",
-    "proxy_type": "socks5",
-    "latency_ms": 9803.557259,
-    "checked_at": "2026-08-12T23:53:09.193527197Z"
-  },
-  {
-    "address": "168.119.173.104:47486",
-    "proxy_type": "socks5",
-    "latency_ms": 10125.414687999999,
-    "checked_at": "2026-08-13T00:08:38.105383664Z"
-  },
-  {
-    "address": "45.74.178.43:9091",
-    "proxy_type": "socks5",
-    "latency_ms": 10157.868631,
-    "checked_at": "2026-08-13T01:10:08.875465103Z"
-  },
-  {
-    "address": "223.254.141.102:6636",
-    "proxy_type": "socks5",
-    "latency_ms": 10270.76296,
-    "checked_at": "2026-08-13T00:53:18.435173118Z"
-  },
-  {
-    "address": "212.46.245.189:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 10271.365585,
-    "checked_at": "2026-08-13T00:50:07.435090425Z"
-  },
-  {
-    "address": "159.195.61.240:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 10396.975680000001,
-    "checked_at": "2026-08-13T00:05:47.139937738Z"
-  },
-  {
-    "address": "61.78.63.200:30001",
-    "proxy_type": "socks5",
-    "latency_ms": 10690.596825,
-    "checked_at": "2026-08-13T01:19:21.896277316Z"
-  },
-  {
-    "address": "84.52.227.36:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 10739.840533,
-    "checked_at": "2026-08-13T01:38:53.645493892Z"
-  },
-  {
-    "address": "159.195.49.27:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 10904.964207,
-    "checked_at": "2026-08-13T00:05:47.616690066Z"
-  },
-  {
-    "address": "217.76.54.168:9052",
-    "proxy_type": "socks5",
-    "latency_ms": 11127.240203,
-    "checked_at": "2026-08-13T00:52:24.162067404Z"
-  },
-  {
-    "address": "195.2.70.127:9050",
-    "proxy_type": "socks5",
-    "latency_ms": 11330.116336,
-    "checked_at": "2026-08-13T00:42:49.95359629Z"
-  },
-  {
-    "address": "138.2.216.186:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 11507.193927,
-    "checked_at": "2026-08-12T23:59:44.250623743Z"
+    "latency_ms": 1047.756047,
+    "checked_at": "2026-08-13T05:04:28.44053394Z"
   },
   {
     "address": "165.232.49.16:1080",
     "proxy_type": "socks5",
-    "latency_ms": 11526.203071,
-    "checked_at": "2026-08-13T00:07:44.630115803Z"
+    "latency_ms": 1052.861732,
+    "checked_at": "2026-08-13T04:48:52.118124136Z"
   },
   {
-    "address": "160.250.54.5:9000",
+    "address": "188.166.120.48:1080",
     "proxy_type": "socks5",
-    "latency_ms": 11534.744725999999,
-    "checked_at": "2026-08-13T00:06:29.998949395Z"
+    "latency_ms": 1058.594848,
+    "checked_at": "2026-08-13T05:18:33.367931971Z"
   },
   {
-    "address": "35.204.249.130:1080",
+    "address": "202.62.52.20:1080",
     "proxy_type": "socks5",
-    "latency_ms": 11675.28768,
-    "checked_at": "2026-08-13T00:55:35.526624142Z"
+    "latency_ms": 1090.109747,
+    "checked_at": "2026-08-13T05:28:05.91761791Z"
   },
   {
-    "address": "84.201.144.65:10007",
+    "address": "43.163.219.10:20000",
     "proxy_type": "socks5",
-    "latency_ms": 11739.353673,
-    "checked_at": "2026-08-13T01:38:23.249030612Z"
+    "latency_ms": 1100.050446,
+    "checked_at": "2026-08-13T05:42:42.997300852Z"
+  },
+  {
+    "address": "204.152.192.13:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1149.012269,
+    "checked_at": "2026-08-13T05:28:37.648818123Z"
+  },
+  {
+    "address": "89.208.106.37:32712",
+    "proxy_type": "socks5",
+    "latency_ms": 1150.183791,
+    "checked_at": "2026-08-13T06:21:48.474763409Z"
+  },
+  {
+    "address": "202.70.156.235:3000",
+    "proxy_type": "socks5",
+    "latency_ms": 1156.244746,
+    "checked_at": "2026-08-13T05:28:08.472370642Z"
+  },
+  {
+    "address": "193.233.218.213:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1179.218982,
+    "checked_at": "2026-08-13T05:22:23.865004403Z"
+  },
+  {
+    "address": "151.115.99.193:10006",
+    "proxy_type": "socks5",
+    "latency_ms": 1183.150513,
+    "checked_at": "2026-08-13T04:44:08.726813511Z"
+  },
+  {
+    "address": "38.175.197.50:5555",
+    "proxy_type": "socks5",
+    "latency_ms": 1192.439358,
+    "checked_at": "2026-08-13T05:39:25.250210071Z"
+  },
+  {
+    "address": "171.253.95.241:1089",
+    "proxy_type": "socks5",
+    "latency_ms": 1196.127164,
+    "checked_at": "2026-08-13T05:04:31.423981174Z"
+  },
+  {
+    "address": "78.111.149.103:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1203.7294789999999,
+    "checked_at": "2026-08-13T06:14:11.247590157Z"
+  },
+  {
+    "address": "123.58.219.171:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 1221.972872,
+    "checked_at": "2026-08-13T04:37:50.665642069Z"
+  },
+  {
+    "address": "66.253.43.134:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1246.635398,
+    "checked_at": "2026-08-13T06:07:55.674414108Z"
+  },
+  {
+    "address": "147.45.169.78:49153",
+    "proxy_type": "socks5",
+    "latency_ms": 1248.512142,
+    "checked_at": "2026-08-13T04:43:20.257308372Z"
+  },
+  {
+    "address": "45.76.164.255:1085",
+    "proxy_type": "socks5",
+    "latency_ms": 1257.143333,
+    "checked_at": "2026-08-13T05:51:34.071499723Z"
+  },
+  {
+    "address": "103.39.49.101:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 1278.77512,
+    "checked_at": "2026-08-13T04:24:12.390899603Z"
+  },
+  {
+    "address": "138.124.103.223:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1287.787711,
+    "checked_at": "2026-08-13T04:40:31.173469551Z"
+  },
+  {
+    "address": "5.45.119.70:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1291.1612930000001,
+    "checked_at": "2026-08-13T05:58:25.361969858Z"
+  },
+  {
+    "address": "45.95.233.88:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 1309.172137,
+    "checked_at": "2026-08-13T05:51:58.085771523Z"
+  },
+  {
+    "address": "130.49.187.61:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 1312.454689,
+    "checked_at": "2026-08-13T04:39:22.639380584Z"
+  },
+  {
+    "address": "147.45.60.139:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 1318.473375,
+    "checked_at": "2026-08-13T04:43:24.886396086Z"
+  },
+  {
+    "address": "109.172.55.210:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 1324.038394,
+    "checked_at": "2026-08-13T04:29:45.415026312Z"
+  },
+  {
+    "address": "161.35.90.93:1081",
+    "proxy_type": "socks5",
+    "latency_ms": 1327.502006,
+    "checked_at": "2026-08-13T04:47:45.211214677Z"
+  },
+  {
+    "address": "103.75.198.134:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 1331.701692,
+    "checked_at": "2026-08-13T04:24:59.115749403Z"
+  },
+  {
+    "address": "185.209.29.226:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1346.606507,
+    "checked_at": "2026-08-13T05:13:59.221629719Z"
+  },
+  {
+    "address": "47.245.165.201:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1349.29323,
+    "checked_at": "2026-08-13T05:54:37.305249451Z"
+  },
+  {
+    "address": "213.135.88.58:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1390.298809,
+    "checked_at": "2026-08-13T05:31:32.392624315Z"
+  },
+  {
+    "address": "194.163.174.78:1081",
+    "proxy_type": "socks5",
+    "latency_ms": 1411.988716,
+    "checked_at": "2026-08-13T05:23:02.724449075Z"
+  },
+  {
+    "address": "161.35.90.93:1083",
+    "proxy_type": "socks5",
+    "latency_ms": 1419.225019,
+    "checked_at": "2026-08-13T04:47:45.336373635Z"
+  },
+  {
+    "address": "91.206.14.55:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1427.634958,
+    "checked_at": "2026-08-13T06:23:00.726660773Z"
+  },
+  {
+    "address": "89.148.196.156:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1428.051674,
+    "checked_at": "2026-08-13T06:21:38.380902215Z"
+  },
+  {
+    "address": "185.175.229.58:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1439.5233030000002,
+    "checked_at": "2026-08-13T05:13:44.307910021Z"
+  },
+  {
+    "address": "116.96.32.160:1083",
+    "proxy_type": "socks5",
+    "latency_ms": 1451.2887810000002,
+    "checked_at": "2026-08-13T04:34:56.873970227Z"
+  },
+  {
+    "address": "47.238.236.151:5555",
+    "proxy_type": "socks5",
+    "latency_ms": 1469.7224420000002,
+    "checked_at": "2026-08-13T05:54:28.930754402Z"
+  },
+  {
+    "address": "147.45.158.88:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1499.333215,
+    "checked_at": "2026-08-13T04:43:34.723552971Z"
+  },
+  {
+    "address": "66.163.118.99:10006",
+    "proxy_type": "socks5",
+    "latency_ms": 1512.5109220000002,
+    "checked_at": "2026-08-13T06:07:47.922284684Z"
+  },
+  {
+    "address": "85.175.219.236:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1522.324944,
+    "checked_at": "2026-08-13T06:20:35.45164548Z"
+  },
+  {
+    "address": "69.55.49.177:38182",
+    "proxy_type": "socks5",
+    "latency_ms": 1529.531653,
+    "checked_at": "2026-08-13T06:10:32.077764066Z"
+  },
+  {
+    "address": "45.11.56.70:2080",
+    "proxy_type": "socks5",
+    "latency_ms": 1544.416126,
+    "checked_at": "2026-08-13T05:43:06.766313467Z"
+  },
+  {
+    "address": "124.248.177.44:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1548.985638,
+    "checked_at": "2026-08-13T04:38:10.666259824Z"
+  },
+  {
+    "address": "149.62.186.244:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1586.3277739999999,
+    "checked_at": "2026-08-13T04:43:54.459665196Z"
+  },
+  {
+    "address": "185.200.177.138:445",
+    "proxy_type": "socks5",
+    "latency_ms": 1605.684666,
+    "checked_at": "2026-08-13T05:13:57.852856208Z"
+  },
+  {
+    "address": "202.62.60.103:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1622.9319090000001,
+    "checked_at": "2026-08-13T05:28:01.67837317Z"
+  },
+  {
+    "address": "118.70.151.55:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1630.1344920000001,
+    "checked_at": "2026-08-13T04:35:42.077091266Z"
+  },
+  {
+    "address": "101.36.104.46:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 1654.6479330000002,
+    "checked_at": "2026-08-13T04:16:35.084065893Z"
+  },
+  {
+    "address": "85.122.114.135:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 1685.851271,
+    "checked_at": "2026-08-13T06:20:32.499283105Z"
+  },
+  {
+    "address": "85.172.55.85:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1707.366792,
+    "checked_at": "2026-08-13T06:20:34.850439001Z"
+  },
+  {
+    "address": "216.105.166.190:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1718.742462,
+    "checked_at": "2026-08-13T05:31:56.141821454Z"
+  },
+  {
+    "address": "93.90.231.101:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1764.304125,
+    "checked_at": "2026-08-13T06:24:35.260076611Z"
+  },
+  {
+    "address": "144.124.232.204:443",
+    "proxy_type": "socks5",
+    "latency_ms": 1768.0759369999998,
+    "checked_at": "2026-08-13T04:42:47.850716743Z"
+  },
+  {
+    "address": "43.128.63.68:7890",
+    "proxy_type": "socks5",
+    "latency_ms": 1822.7686620000002,
+    "checked_at": "2026-08-13T05:42:29.756092804Z"
+  },
+  {
+    "address": "46.146.220.247:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1832.285482,
+    "checked_at": "2026-08-13T05:52:07.647181836Z"
+  },
+  {
+    "address": "94.233.120.194:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1836.659836,
+    "checked_at": "2026-08-13T06:24:53.381676484Z"
+  },
+  {
+    "address": "47.90.252.54:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1866.1353680000002,
+    "checked_at": "2026-08-13T05:56:10.122955413Z"
+  },
+  {
+    "address": "151.252.80.124:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1870.403766,
+    "checked_at": "2026-08-13T04:44:13.13739011Z"
+  },
+  {
+    "address": "31.76.80.215:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1879.0614159999998,
+    "checked_at": "2026-08-13T05:36:32.653862835Z"
+  },
+  {
+    "address": "176.226.227.148:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 1881.601034,
+    "checked_at": "2026-08-13T05:08:10.133141482Z"
+  },
+  {
+    "address": "43.162.94.99:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1914.252579,
+    "checked_at": "2026-08-13T05:42:40.737996877Z"
+  },
+  {
+    "address": "45.192.9.27:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1915.3925219999999,
+    "checked_at": "2026-08-13T05:48:58.828858761Z"
+  },
+  {
+    "address": "194.67.111.148:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1924.210261,
+    "checked_at": "2026-08-13T05:23:26.645959391Z"
+  },
+  {
+    "address": "194.67.51.210:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1974.0921270000001,
+    "checked_at": "2026-08-13T05:23:26.732587237Z"
+  },
+  {
+    "address": "85.198.81.83:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 1979.651308,
+    "checked_at": "2026-08-13T06:20:39.788231142Z"
+  },
+  {
+    "address": "152.228.134.176:48080",
+    "proxy_type": "socks5",
+    "latency_ms": 1996.974673,
+    "checked_at": "2026-08-13T04:44:15.427000462Z"
+  },
+  {
+    "address": "43.153.79.124:47783",
+    "proxy_type": "socks5",
+    "latency_ms": 2000.5460429999998,
+    "checked_at": "2026-08-13T05:42:47.527528714Z"
+  },
+  {
+    "address": "80.255.85.102:9150",
+    "proxy_type": "socks5",
+    "latency_ms": 2001.9012749999997,
+    "checked_at": "2026-08-13T06:18:31.165149757Z"
+  },
+  {
+    "address": "15.235.172.129:27391",
+    "proxy_type": "socks5",
+    "latency_ms": 2041.4871529999998,
+    "checked_at": "2026-08-13T04:44:01.12797225Z"
+  },
+  {
+    "address": "103.88.234.239:40009",
+    "proxy_type": "socks5",
+    "latency_ms": 2055.4365080000002,
+    "checked_at": "2026-08-13T04:25:40.410117596Z"
+  },
+  {
+    "address": "194.163.174.78:1083",
+    "proxy_type": "socks5",
+    "latency_ms": 2109.7691689999997,
+    "checked_at": "2026-08-13T05:23:03.427838313Z"
+  },
+  {
+    "address": "45.118.146.219:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2117.640385,
+    "checked_at": "2026-08-13T05:43:20.705216256Z"
+  },
+  {
+    "address": "49.167.236.96:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2133.2259129999998,
+    "checked_at": "2026-08-13T05:57:06.230827417Z"
+  },
+  {
+    "address": "37.18.73.60:5566",
+    "proxy_type": "socks5",
+    "latency_ms": 2149.2413140000003,
+    "checked_at": "2026-08-13T05:38:05.421242611Z"
+  },
+  {
+    "address": "161.35.90.93:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 2184.049293,
+    "checked_at": "2026-08-13T04:47:46.071287789Z"
+  },
+  {
+    "address": "129.151.9.55:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 2281.300327,
+    "checked_at": "2026-08-13T04:38:37.64045115Z"
+  },
+  {
+    "address": "49.0.0.175:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2292.830468,
+    "checked_at": "2026-08-13T05:56:59.13273557Z"
+  },
+  {
+    "address": "104.194.132.112:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 2309.128256,
+    "checked_at": "2026-08-13T04:26:43.176799495Z"
+  },
+  {
+    "address": "45.95.233.128:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 2320.515356,
+    "checked_at": "2026-08-13T05:51:58.801992623Z"
+  },
+  {
+    "address": "66.59.197.62:4000",
+    "proxy_type": "socks5",
+    "latency_ms": 2340.06214,
+    "checked_at": "2026-08-13T06:07:58.134404027Z"
+  },
+  {
+    "address": "103.36.11.18:8199",
+    "proxy_type": "socks5",
+    "latency_ms": 2359.014315,
+    "checked_at": "2026-08-13T04:24:11.588493848Z"
+  },
+  {
+    "address": "85.143.254.38:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2359.484625,
+    "checked_at": "2026-08-13T06:20:34.097761292Z"
+  },
+  {
+    "address": "43.156.201.214:2080",
+    "proxy_type": "socks5",
+    "latency_ms": 2388.473249,
+    "checked_at": "2026-08-13T05:42:35.745539772Z"
+  },
+  {
+    "address": "116.203.19.71:9122",
+    "proxy_type": "socks5",
+    "latency_ms": 2430.827135,
+    "checked_at": "2026-08-13T04:34:51.77082158Z"
+  },
+  {
+    "address": "43.135.172.174:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 2431.956962,
+    "checked_at": "2026-08-13T05:42:25.138975568Z"
+  },
+  {
+    "address": "109.199.105.194:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2443.995946,
+    "checked_at": "2026-08-13T04:29:48.175746086Z"
+  },
+  {
+    "address": "185.252.147.44:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2478.091272,
+    "checked_at": "2026-08-13T05:14:33.788016574Z"
+  },
+  {
+    "address": "202.62.50.52:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2516.633005,
+    "checked_at": "2026-08-13T05:28:01.511095329Z"
+  },
+  {
+    "address": "171.25.158.95:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2545.4477349999997,
+    "checked_at": "2026-08-13T05:04:26.874764255Z"
+  },
+  {
+    "address": "165.154.20.187:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 2562.632142,
+    "checked_at": "2026-08-13T04:48:41.186784612Z"
+  },
+  {
+    "address": "123.136.24.161:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2566.13706,
+    "checked_at": "2026-08-13T04:37:32.66616469Z"
+  },
+  {
+    "address": "202.62.62.113:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2579.641882,
+    "checked_at": "2026-08-13T05:28:07.890400649Z"
+  },
+  {
+    "address": "83.147.216.208:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2608.1764519999997,
+    "checked_at": "2026-08-13T06:19:21.593029195Z"
+  },
+  {
+    "address": "103.75.118.84:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2636.0443609999998,
+    "checked_at": "2026-08-13T04:25:00.006219428Z"
+  },
+  {
+    "address": "221.176.85.226:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2694.057017,
+    "checked_at": "2026-08-13T05:33:45.4664572Z"
+  },
+  {
+    "address": "116.48.170.221:11000",
+    "proxy_type": "socks5",
+    "latency_ms": 2794.666545,
+    "checked_at": "2026-08-13T04:35:00.727162987Z"
+  },
+  {
+    "address": "59.38.113.185:20000",
+    "proxy_type": "socks5",
+    "latency_ms": 2811.326776,
+    "checked_at": "2026-08-13T06:00:39.674161863Z"
+  },
+  {
+    "address": "150.136.58.221:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 2877.26575,
+    "checked_at": "2026-08-13T04:44:06.784893836Z"
+  },
+  {
+    "address": "147.45.221.115:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 2968.786305,
+    "checked_at": "2026-08-13T04:43:26.27412489Z"
+  },
+  {
+    "address": "194.58.97.165:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 2970.987043,
+    "checked_at": "2026-08-13T05:23:43.135801453Z"
+  },
+  {
+    "address": "171.253.95.241:1083",
+    "proxy_type": "socks5",
+    "latency_ms": 3023.9726490000003,
+    "checked_at": "2026-08-13T05:04:32.425393793Z"
+  },
+  {
+    "address": "78.159.131.108:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 3036.9687870000002,
+    "checked_at": "2026-08-13T06:14:20.351980195Z"
+  },
+  {
+    "address": "195.19.50.120:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3122.986966,
+    "checked_at": "2026-08-13T05:23:51.064062984Z"
+  },
+  {
+    "address": "188.190.26.67:8885",
+    "proxy_type": "socks5",
+    "latency_ms": 3137.437174,
+    "checked_at": "2026-08-13T05:18:45.116337713Z"
+  },
+  {
+    "address": "45.137.43.0:1081",
+    "proxy_type": "socks5",
+    "latency_ms": 3220.8242240000004,
+    "checked_at": "2026-08-13T05:44:13.63490527Z"
+  },
+  {
+    "address": "150.241.89.209:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 3224.0734949999996,
+    "checked_at": "2026-08-13T04:44:08.914202588Z"
+  },
+  {
+    "address": "180.158.222.93:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3225.57027,
+    "checked_at": "2026-08-13T05:10:28.862908821Z"
+  },
+  {
+    "address": "144.91.121.61:1088",
+    "proxy_type": "socks5",
+    "latency_ms": 3242.138341,
+    "checked_at": "2026-08-13T04:42:46.677068672Z"
+  },
+  {
+    "address": "220.158.232.118:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3320.006116,
+    "checked_at": "2026-08-13T05:33:37.10782193Z"
   },
   {
     "address": "213.176.113.24:50001",
     "proxy_type": "socks5",
-    "latency_ms": 11872.335750999999,
-    "checked_at": "2026-08-13T00:50:29.006234131Z"
+    "latency_ms": 3363.358725,
+    "checked_at": "2026-08-13T05:31:43.300485004Z"
   },
   {
-    "address": "171.253.95.238:1081",
+    "address": "195.19.50.100:1080",
     "proxy_type": "socks5",
-    "latency_ms": 11897.968417,
-    "checked_at": "2026-08-13T00:23:27.241748568Z"
+    "latency_ms": 3370.607262,
+    "checked_at": "2026-08-13T05:23:51.760154593Z"
   },
   {
-    "address": "178.104.242.12:9050",
+    "address": "45.32.119.194:9000",
     "proxy_type": "socks5",
-    "latency_ms": 11962.774912,
-    "checked_at": "2026-08-13T00:27:59.288940644Z"
+    "latency_ms": 3381.484434,
+    "checked_at": "2026-08-13T05:50:25.420808622Z"
   },
   {
-    "address": "208.87.128.239:9150",
+    "address": "221.176.85.236:1080",
     "proxy_type": "socks5",
-    "latency_ms": 12023.561166,
-    "checked_at": "2026-08-13T00:48:28.477063792Z"
+    "latency_ms": 3446.261245,
+    "checked_at": "2026-08-13T05:33:49.210539879Z"
   },
   {
-    "address": "43.160.245.155:8080",
+    "address": "193.25.215.182:22222",
     "proxy_type": "socks5",
-    "latency_ms": 12332.303552000001,
-    "checked_at": "2026-08-13T01:01:20.554066455Z"
+    "latency_ms": 3464.78268,
+    "checked_at": "2026-08-13T05:22:35.704967067Z"
   },
   {
-    "address": "116.203.181.56:9050",
+    "address": "160.250.54.5:9000",
     "proxy_type": "socks5",
-    "latency_ms": 12437.521733000001,
-    "checked_at": "2026-08-12T23:54:18.633123109Z"
+    "latency_ms": 3475.183196,
+    "checked_at": "2026-08-13T04:47:35.720584784Z"
   },
   {
-    "address": "111.119.162.248:10925",
+    "address": "93.91.162.222:1080",
     "proxy_type": "socks5",
-    "latency_ms": 12635.483604000001,
-    "checked_at": "2026-08-12T23:52:10.718122763Z"
+    "latency_ms": 3506.6455269999997,
+    "checked_at": "2026-08-13T06:24:37.615370342Z"
   },
   {
-    "address": "45.74.178.43:9098",
+    "address": "129.159.24.153:18443",
     "proxy_type": "socks5",
-    "latency_ms": 12887.488318000002,
-    "checked_at": "2026-08-13T01:10:11.636211736Z"
+    "latency_ms": 3510.7905769999998,
+    "checked_at": "2026-08-13T04:38:41.151802572Z"
   },
   {
-    "address": "91.107.155.72:9080",
+    "address": "195.135.255.98:1080",
     "proxy_type": "socks5",
-    "latency_ms": 12975.797634999999,
-    "checked_at": "2026-08-13T01:41:08.641190848Z"
+    "latency_ms": 3602.236952,
+    "checked_at": "2026-08-13T05:23:38.389300143Z"
   },
   {
-    "address": "209.182.234.151:40000",
+    "address": "194.87.191.118:20090",
     "proxy_type": "socks5",
-    "latency_ms": 13179.354286,
-    "checked_at": "2026-08-13T00:48:35.867042827Z"
+    "latency_ms": 3639.4968470000003,
+    "checked_at": "2026-08-13T05:23:34.535073231Z"
   },
   {
-    "address": "91.107.243.254:9096",
+    "address": "43.134.53.69:1080",
     "proxy_type": "socks5",
-    "latency_ms": 13316.794514,
-    "checked_at": "2026-08-13T01:41:29.116059055Z"
+    "latency_ms": 3685.930634,
+    "checked_at": "2026-08-13T05:42:24.328943168Z"
   },
   {
-    "address": "194.127.179.9:10806",
+    "address": "223.25.109.163:8199",
     "proxy_type": "socks5",
-    "latency_ms": 13595.355053000001,
-    "checked_at": "2026-08-13T00:41:41.351812271Z"
-  },
-  {
-    "address": "85.137.245.75:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 13825.571101,
-    "checked_at": "2026-08-13T01:39:23.774747587Z"
-  },
-  {
-    "address": "94.131.230.127:1080",
-    "proxy_type": "socks5",
-    "latency_ms": 13910.372423,
-    "checked_at": "2026-08-13T01:43:22.385649076Z"
-  },
-  {
-    "address": "132.226.7.23:30277",
-    "proxy_type": "socks5",
-    "latency_ms": 13939.044851,
-    "checked_at": "2026-08-12T23:58:59.229771446Z"
+    "latency_ms": 3726.174254,
+    "checked_at": "2026-08-13T05:34:27.319662359Z"
   },
   {
     "address": "144.91.111.48:1088",
     "proxy_type": "socks5",
-    "latency_ms": 14090.797103,
-    "checked_at": "2026-08-13T00:01:44.834903961Z"
+    "latency_ms": 3767.056455,
+    "checked_at": "2026-08-13T04:42:46.352747056Z"
   },
   {
-    "address": "91.243.195.9:35860",
+    "address": "38.54.50.148:1080",
     "proxy_type": "socks5",
-    "latency_ms": 14142.644307999999,
-    "checked_at": "2026-08-13T01:42:14.772077984Z"
+    "latency_ms": 3769.337712,
+    "checked_at": "2026-08-13T05:40:18.798175987Z"
   },
   {
-    "address": "77.90.8.154:9080",
+    "address": "152.89.104.11:1080",
     "proxy_type": "socks5",
-    "latency_ms": 14647.279511,
-    "checked_at": "2026-08-13T01:32:42.378120061Z"
+    "latency_ms": 3786.2432,
+    "checked_at": "2026-08-13T04:44:33.712446196Z"
   },
   {
-    "address": "5.255.117.127:1080",
+    "address": "103.45.245.39:1080",
     "proxy_type": "socks5",
-    "latency_ms": 14864.28917,
-    "checked_at": "2026-08-13T01:17:18.002889288Z"
+    "latency_ms": 3819.5854719999998,
+    "checked_at": "2026-08-13T04:24:18.036910069Z"
   },
   {
-    "address": "143.20.185.219:9150",
+    "address": "128.0.26.27:1080",
     "proxy_type": "socks5",
-    "latency_ms": 14928.947859000002,
-    "checked_at": "2026-08-13T00:01:29.820180044Z"
+    "latency_ms": 3886.584968,
+    "checked_at": "2026-08-13T04:38:29.401775878Z"
+  },
+  {
+    "address": "93.118.127.222:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3899.030233,
+    "checked_at": "2026-08-13T06:24:01.504085361Z"
+  },
+  {
+    "address": "221.176.85.232:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3909.4801390000002,
+    "checked_at": "2026-08-13T05:33:48.219614888Z"
+  },
+  {
+    "address": "31.76.31.221:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3945.152791,
+    "checked_at": "2026-08-13T05:36:34.709643782Z"
+  },
+  {
+    "address": "221.176.85.228:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3967.57005,
+    "checked_at": "2026-08-13T05:33:47.049908948Z"
+  },
+  {
+    "address": "38.180.235.32:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 3998.075398,
+    "checked_at": "2026-08-13T05:39:28.356358788Z"
+  },
+  {
+    "address": "45.77.37.39:2055",
+    "proxy_type": "socks5",
+    "latency_ms": 4082.723968,
+    "checked_at": "2026-08-13T05:51:38.067593931Z"
+  },
+  {
+    "address": "185.228.89.74:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4140.467793,
+    "checked_at": "2026-08-13T05:14:31.089972984Z"
+  },
+  {
+    "address": "212.237.125.216:6969",
+    "proxy_type": "socks5",
+    "latency_ms": 4147.235495,
+    "checked_at": "2026-08-13T05:31:12.038213546Z"
+  },
+  {
+    "address": "101.36.104.239:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 4172.564251,
+    "checked_at": "2026-08-13T04:16:37.601823447Z"
+  },
+  {
+    "address": "145.255.239.78:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4173.342173,
+    "checked_at": "2026-08-13T04:42:57.540699328Z"
+  },
+  {
+    "address": "77.110.103.146:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4232.225611,
+    "checked_at": "2026-08-13T06:13:47.520914171Z"
+  },
+  {
+    "address": "216.106.179.216:49222",
+    "proxy_type": "socks5",
+    "latency_ms": 4327.985229,
+    "checked_at": "2026-08-13T05:32:00.323552037Z"
+  },
+  {
+    "address": "202.62.52.120:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4480.0090390000005,
+    "checked_at": "2026-08-13T05:28:03.588131041Z"
+  },
+  {
+    "address": "46.181.243.194:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4495.523436,
+    "checked_at": "2026-08-13T05:52:20.538878315Z"
+  },
+  {
+    "address": "202.62.42.167:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4508.016727,
+    "checked_at": "2026-08-13T05:28:02.72491663Z"
+  },
+  {
+    "address": "216.106.179.216:49160",
+    "proxy_type": "socks5",
+    "latency_ms": 4524.484088,
+    "checked_at": "2026-08-13T05:32:03.20544954Z"
+  },
+  {
+    "address": "176.119.246.211:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4527.77178,
+    "checked_at": "2026-08-13T05:08:03.855405799Z"
+  },
+  {
+    "address": "109.191.10.98:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4541.91552,
+    "checked_at": "2026-08-13T04:29:49.596402919Z"
+  },
+  {
+    "address": "202.79.27.12:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4625.565696,
+    "checked_at": "2026-08-13T05:28:07.924889535Z"
+  },
+  {
+    "address": "212.3.127.242:10801",
+    "proxy_type": "socks5",
+    "latency_ms": 4709.455493,
+    "checked_at": "2026-08-13T05:31:16.509773494Z"
+  },
+  {
+    "address": "110.235.252.74:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4734.4585050000005,
+    "checked_at": "2026-08-13T04:32:23.657520622Z"
+  },
+  {
+    "address": "141.147.109.224:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4764.759326,
+    "checked_at": "2026-08-13T04:42:08.067754798Z"
+  },
+  {
+    "address": "202.141.161.53:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 4777.137041999999,
+    "checked_at": "2026-08-13T05:27:29.499939575Z"
+  },
+  {
+    "address": "221.176.85.230:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4838.82375,
+    "checked_at": "2026-08-13T05:33:48.150496364Z"
+  },
+  {
+    "address": "115.127.53.114:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4844.4327539999995,
+    "checked_at": "2026-08-13T04:33:58.54964261Z"
+  },
+  {
+    "address": "46.241.57.29:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4968.249171,
+    "checked_at": "2026-08-13T05:52:33.768257387Z"
+  },
+  {
+    "address": "144.21.39.252:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 4991.995586,
+    "checked_at": "2026-08-13T04:42:38.610209932Z"
+  },
+  {
+    "address": "171.253.95.24:1083",
+    "proxy_type": "socks5",
+    "latency_ms": 5032.689785,
+    "checked_at": "2026-08-13T05:04:36.03982031Z"
+  },
+  {
+    "address": "51.159.97.242:10006",
+    "proxy_type": "socks5",
+    "latency_ms": 5037.6464639999995,
+    "checked_at": "2026-08-13T05:59:18.147794093Z"
+  },
+  {
+    "address": "95.85.233.144:18443",
+    "proxy_type": "socks5",
+    "latency_ms": 5046.186986999999,
+    "checked_at": "2026-08-13T06:25:31.24302431Z"
+  },
+  {
+    "address": "185.93.104.246:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5069.336319999999,
+    "checked_at": "2026-08-13T05:15:12.647288134Z"
+  },
+  {
+    "address": "178.130.47.21:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 5135.662114,
+    "checked_at": "2026-08-13T05:09:17.357941084Z"
+  },
+  {
+    "address": "141.148.158.143:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5307.480579,
+    "checked_at": "2026-08-13T04:42:08.688712142Z"
+  },
+  {
+    "address": "195.19.49.21:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5403.9507699999995,
+    "checked_at": "2026-08-13T05:23:53.748084065Z"
+  },
+  {
+    "address": "78.29.53.117:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5413.009618,
+    "checked_at": "2026-08-13T06:14:25.933149496Z"
+  },
+  {
+    "address": "109.172.55.227:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 5429.266446,
+    "checked_at": "2026-08-13T04:29:55.064527381Z"
+  },
+  {
+    "address": "185.151.86.86:3699",
+    "proxy_type": "socks5",
+    "latency_ms": 5434.471288,
+    "checked_at": "2026-08-13T05:13:20.931743311Z"
+  },
+  {
+    "address": "217.25.229.244:2080",
+    "proxy_type": "socks5",
+    "latency_ms": 5469.872461999999,
+    "checked_at": "2026-08-13T05:33:20.694801236Z"
+  },
+  {
+    "address": "139.28.240.201:1082",
+    "proxy_type": "socks5",
+    "latency_ms": 5524.756504,
+    "checked_at": "2026-08-13T04:41:09.613117208Z"
+  },
+  {
+    "address": "118.194.228.2:10808",
+    "proxy_type": "socks5",
+    "latency_ms": 5530.888803,
+    "checked_at": "2026-08-13T04:35:57.125473541Z"
+  },
+  {
+    "address": "185.171.202.170:9150",
+    "proxy_type": "socks5",
+    "latency_ms": 5534.694367,
+    "checked_at": "2026-08-13T05:13:32.60492456Z"
+  },
+  {
+    "address": "194.67.207.95:19080",
+    "proxy_type": "socks5",
+    "latency_ms": 5566.233421,
+    "checked_at": "2026-08-13T05:23:30.396243118Z"
+  },
+  {
+    "address": "163.47.37.190:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5579.126898,
+    "checked_at": "2026-08-13T04:48:26.345438306Z"
+  },
+  {
+    "address": "147.45.72.212:44816",
+    "proxy_type": "socks5",
+    "latency_ms": 5619.3233310000005,
+    "checked_at": "2026-08-13T04:43:23.970192482Z"
+  },
+  {
+    "address": "106.110.146.157:8989",
+    "proxy_type": "socks5",
+    "latency_ms": 5654.391892,
+    "checked_at": "2026-08-13T04:29:11.28872595Z"
+  },
+  {
+    "address": "104.248.151.220:57554",
+    "proxy_type": "socks5",
+    "latency_ms": 5723.562540999999,
+    "checked_at": "2026-08-13T04:28:46.079584705Z"
+  },
+  {
+    "address": "88.218.196.168:443",
+    "proxy_type": "socks5",
+    "latency_ms": 5748.697498,
+    "checked_at": "2026-08-13T06:21:24.877102239Z"
+  },
+  {
+    "address": "141.148.8.171:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5815.883293,
+    "checked_at": "2026-08-13T04:42:24.713003968Z"
+  },
+  {
+    "address": "185.200.176.236:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5835.088231000001,
+    "checked_at": "2026-08-13T05:13:56.565621557Z"
+  },
+  {
+    "address": "150.242.218.137:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 5848.620698999999,
+    "checked_at": "2026-08-13T04:44:28.27495244Z"
+  },
+  {
+    "address": "43.135.135.136:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 5945.765074999999,
+    "checked_at": "2026-08-13T05:42:27.328255983Z"
+  },
+  {
+    "address": "216.106.179.216:49388",
+    "proxy_type": "socks5",
+    "latency_ms": 5993.1894139999995,
+    "checked_at": "2026-08-13T05:32:14.6174581Z"
+  },
+  {
+    "address": "87.239.251.202:1081",
+    "proxy_type": "socks5",
+    "latency_ms": 6144.759631,
+    "checked_at": "2026-08-13T06:21:19.85987312Z"
+  },
+  {
+    "address": "119.28.64.217:50161",
+    "proxy_type": "socks5",
+    "latency_ms": 6155.602996,
+    "checked_at": "2026-08-13T04:36:01.349488483Z"
+  },
+  {
+    "address": "5.79.163.26:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6185.25446,
+    "checked_at": "2026-08-13T05:58:42.568220498Z"
+  },
+  {
+    "address": "211.162.68.57:1088",
+    "proxy_type": "socks5",
+    "latency_ms": 6191.434187,
+    "checked_at": "2026-08-13T05:31:06.370007509Z"
+  },
+  {
+    "address": "140.238.241.74:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6209.213669000001,
+    "checked_at": "2026-08-13T04:41:58.977665046Z"
+  },
+  {
+    "address": "216.106.179.216:49453",
+    "proxy_type": "socks5",
+    "latency_ms": 6211.9826969999995,
+    "checked_at": "2026-08-13T05:32:19.091127465Z"
+  },
+  {
+    "address": "185.242.119.236:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6230.251613,
+    "checked_at": "2026-08-13T05:14:42.263833459Z"
+  },
+  {
+    "address": "144.24.47.42:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6296.736012,
+    "checked_at": "2026-08-13T04:42:46.500915617Z"
+  },
+  {
+    "address": "103.153.159.217:80",
+    "proxy_type": "socks5",
+    "latency_ms": 6305.4005990000005,
+    "checked_at": "2026-08-13T04:19:39.673819199Z"
+  },
+  {
+    "address": "119.28.64.217:58367",
+    "proxy_type": "socks5",
+    "latency_ms": 6454.289677000001,
+    "checked_at": "2026-08-13T04:36:01.659600068Z"
+  },
+  {
+    "address": "5.35.85.97:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6491.353607,
+    "checked_at": "2026-08-13T05:58:35.610068551Z"
+  },
+  {
+    "address": "216.106.179.216:49213",
+    "proxy_type": "socks5",
+    "latency_ms": 6577.031352999999,
+    "checked_at": "2026-08-13T05:32:02.310316157Z"
+  },
+  {
+    "address": "185.49.110.155:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6586.124704999999,
+    "checked_at": "2026-08-13T05:14:48.688177519Z"
+  },
+  {
+    "address": "89.19.214.171:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6622.896572000001,
+    "checked_at": "2026-08-13T06:22:01.258567088Z"
+  },
+  {
+    "address": "165.22.240.206:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6624.819270999999,
+    "checked_at": "2026-08-13T04:48:53.731035858Z"
+  },
+  {
+    "address": "43.160.255.142:7890",
+    "proxy_type": "socks5",
+    "latency_ms": 6643.272722,
+    "checked_at": "2026-08-13T05:42:44.216455672Z"
+  },
+  {
+    "address": "186.26.95.249:61445",
+    "proxy_type": "socks5",
+    "latency_ms": 6660.608899999999,
+    "checked_at": "2026-08-13T05:17:43.156668118Z"
+  },
+  {
+    "address": "194.164.125.208:57422",
+    "proxy_type": "socks5",
+    "latency_ms": 6706.631151,
+    "checked_at": "2026-08-13T05:23:23.647358623Z"
+  },
+  {
+    "address": "43.153.79.124:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 6843.372283,
+    "checked_at": "2026-08-13T05:42:42.221487295Z"
+  },
+  {
+    "address": "43.160.245.155:8080",
+    "proxy_type": "socks5",
+    "latency_ms": 6911.034057,
+    "checked_at": "2026-08-13T05:42:44.218760613Z"
+  },
+  {
+    "address": "85.95.167.198:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6944.997794,
+    "checked_at": "2026-08-13T06:21:10.00625187Z"
+  },
+  {
+    "address": "145.241.233.71:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 6992.489871,
+    "checked_at": "2026-08-13T04:43:00.34963966Z"
+  },
+  {
+    "address": "160.250.54.7:9000",
+    "proxy_type": "socks5",
+    "latency_ms": 7026.303191,
+    "checked_at": "2026-08-13T04:47:39.349215198Z"
+  },
+  {
+    "address": "67.207.92.87:1088",
+    "proxy_type": "socks5",
+    "latency_ms": 7043.23179,
+    "checked_at": "2026-08-13T06:08:07.010595252Z"
+  },
+  {
+    "address": "2.184.51.130:10800",
+    "proxy_type": "socks5",
+    "latency_ms": 7098.766563,
+    "checked_at": "2026-08-13T05:25:57.691465192Z"
+  },
+  {
+    "address": "45.133.251.223:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 7111.626768,
+    "checked_at": "2026-08-13T05:44:01.486833234Z"
+  },
+  {
+    "address": "171.253.95.3:1055",
+    "proxy_type": "socks5",
+    "latency_ms": 7171.541855,
+    "checked_at": "2026-08-13T05:04:44.746057734Z"
+  },
+  {
+    "address": "192.9.171.168:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 7312.006412,
+    "checked_at": "2026-08-13T05:21:27.834133208Z"
+  },
+  {
+    "address": "159.195.61.240:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 7368.180643,
+    "checked_at": "2026-08-13T04:46:58.152765017Z"
+  },
+  {
+    "address": "150.241.70.103:6666",
+    "proxy_type": "socks5",
+    "latency_ms": 7386.298299,
+    "checked_at": "2026-08-13T04:44:13.068223175Z"
+  },
+  {
+    "address": "94.73.251.19:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 7676.216047000001,
+    "checked_at": "2026-08-13T06:25:04.135726706Z"
+  },
+  {
+    "address": "185.185.80.58:1088",
+    "proxy_type": "socks5",
+    "latency_ms": 7684.293798,
+    "checked_at": "2026-08-13T05:13:50.094337458Z"
+  },
+  {
+    "address": "116.203.181.56:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 7729.212345,
+    "checked_at": "2026-08-13T04:34:55.651287855Z"
+  },
+  {
+    "address": "83.238.167.189:9150",
+    "proxy_type": "socks5",
+    "latency_ms": 7746.899796,
+    "checked_at": "2026-08-13T06:19:41.034236765Z"
+  },
+  {
+    "address": "62.113.113.114:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 7849.505553,
+    "checked_at": "2026-08-13T06:01:15.813935238Z"
+  },
+  {
+    "address": "132.226.229.220:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 8085.005557,
+    "checked_at": "2026-08-13T04:39:57.720831326Z"
+  },
+  {
+    "address": "43.164.3.124:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 8125.647582,
+    "checked_at": "2026-08-13T05:42:48.497830046Z"
+  },
+  {
+    "address": "153.80.242.105:8080",
+    "proxy_type": "socks5",
+    "latency_ms": 8528.433543000001,
+    "checked_at": "2026-08-13T04:44:46.09956326Z"
+  },
+  {
+    "address": "38.244.128.46:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 8640.081465,
+    "checked_at": "2026-08-13T05:39:54.981885253Z"
+  },
+  {
+    "address": "135.225.91.78:9082",
+    "proxy_type": "socks5",
+    "latency_ms": 8656.138302000001,
+    "checked_at": "2026-08-13T04:40:15.99093271Z"
+  },
+  {
+    "address": "195.19.50.114:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 8667.700351000001,
+    "checked_at": "2026-08-13T05:24:09.380717288Z"
+  },
+  {
+    "address": "107.189.21.202:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 8704.168757,
+    "checked_at": "2026-08-13T04:29:42.123114218Z"
+  },
+  {
+    "address": "216.106.179.216:49178",
+    "proxy_type": "socks5",
+    "latency_ms": 8763.255816,
+    "checked_at": "2026-08-13T05:32:07.842827018Z"
+  },
+  {
+    "address": "109.199.96.116:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 8936.784791,
+    "checked_at": "2026-08-13T04:30:00.738968556Z"
+  },
+  {
+    "address": "89.44.86.33:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 8948.025887,
+    "checked_at": "2026-08-13T06:22:29.855780501Z"
+  },
+  {
+    "address": "155.138.139.189:32768",
+    "proxy_type": "socks5",
+    "latency_ms": 8982.294504,
+    "checked_at": "2026-08-13T04:45:37.381248392Z"
+  },
+  {
+    "address": "144.202.14.153:50000",
+    "proxy_type": "socks5",
+    "latency_ms": 9015.117299,
+    "checked_at": "2026-08-13T04:42:42.532174306Z"
+  },
+  {
+    "address": "91.107.254.246:9097",
+    "proxy_type": "socks5",
+    "latency_ms": 9089.064042,
+    "checked_at": "2026-08-13T06:22:42.544370827Z"
+  },
+  {
+    "address": "171.253.95.3:1033",
+    "proxy_type": "socks5",
+    "latency_ms": 9198.365404,
+    "checked_at": "2026-08-13T05:04:46.692740687Z"
+  },
+  {
+    "address": "43.164.136.189:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 9235.429527,
+    "checked_at": "2026-08-13T05:42:49.476053868Z"
+  },
+  {
+    "address": "62.109.30.179:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 9256.698898999999,
+    "checked_at": "2026-08-13T06:00:56.563687621Z"
+  },
+  {
+    "address": "209.182.234.151:40000",
+    "proxy_type": "socks5",
+    "latency_ms": 9483.721159,
+    "checked_at": "2026-08-13T05:29:57.698859268Z"
+  },
+  {
+    "address": "104.236.171.128:41047",
+    "proxy_type": "socks5",
+    "latency_ms": 9594.501035000001,
+    "checked_at": "2026-08-13T04:28:45.08430047Z"
+  },
+  {
+    "address": "5.189.17.23:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 9597.658275,
+    "checked_at": "2026-08-13T05:58:37.43747536Z"
+  },
+  {
+    "address": "84.234.28.219:9080",
+    "proxy_type": "socks5",
+    "latency_ms": 9629.56941,
+    "checked_at": "2026-08-13T06:19:44.328945288Z"
+  },
+  {
+    "address": "159.195.49.27:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 9775.047040000001,
+    "checked_at": "2026-08-13T04:47:00.541580052Z"
+  },
+  {
+    "address": "91.107.122.209:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 10091.863422999999,
+    "checked_at": "2026-08-13T06:22:46.102588649Z"
+  },
+  {
+    "address": "217.144.162.41:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 10194.749408,
+    "checked_at": "2026-08-13T05:33:17.824002457Z"
+  },
+  {
+    "address": "34.84.162.206:38081",
+    "proxy_type": "socks5",
+    "latency_ms": 10232.646041,
+    "checked_at": "2026-08-13T05:37:03.739433674Z"
+  },
+  {
+    "address": "66.163.127.204:10006",
+    "proxy_type": "socks5",
+    "latency_ms": 10284.420703,
+    "checked_at": "2026-08-13T06:07:56.895850737Z"
+  },
+  {
+    "address": "82.114.228.67:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 10300.418869,
+    "checked_at": "2026-08-13T06:19:05.354629993Z"
+  },
+  {
+    "address": "194.87.79.243:2333",
+    "proxy_type": "socks5",
+    "latency_ms": 10349.826844000001,
+    "checked_at": "2026-08-13T05:23:41.619864293Z"
+  },
+  {
+    "address": "51.222.104.72:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 10714.49303,
+    "checked_at": "2026-08-13T05:59:31.510266046Z"
+  },
+  {
+    "address": "173.249.20.169:9060",
+    "proxy_type": "socks5",
+    "latency_ms": 10758.686026,
+    "checked_at": "2026-08-13T05:07:38.231505769Z"
+  },
+  {
+    "address": "45.8.88.236:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 10887.084273999999,
+    "checked_at": "2026-08-13T05:51:54.336685548Z"
+  },
+  {
+    "address": "39.108.69.221:5002",
+    "proxy_type": "socks5",
+    "latency_ms": 10954.696174,
+    "checked_at": "2026-08-13T05:41:34.921614474Z"
+  },
+  {
+    "address": "195.19.51.79:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 11163.189486000001,
+    "checked_at": "2026-08-13T05:24:00.490666225Z"
+  },
+  {
+    "address": "15.235.176.12:60606",
+    "proxy_type": "socks5",
+    "latency_ms": 11628.016915,
+    "checked_at": "2026-08-13T04:44:11.210345593Z"
+  },
+  {
+    "address": "72.56.73.224:80",
+    "proxy_type": "socks5",
+    "latency_ms": 11884.512854,
+    "checked_at": "2026-08-13T06:13:46.641711441Z"
+  },
+  {
+    "address": "220.112.1.194:1088",
+    "proxy_type": "socks5",
+    "latency_ms": 11885.948607,
+    "checked_at": "2026-08-13T05:33:45.312046326Z"
+  },
+  {
+    "address": "43.138.214.122:9981",
+    "proxy_type": "socks5",
+    "latency_ms": 12144.690068999998,
+    "checked_at": "2026-08-13T05:42:36.348689199Z"
+  },
+  {
+    "address": "77.110.102.252:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 12158.44614,
+    "checked_at": "2026-08-13T06:13:55.440541403Z"
+  },
+  {
+    "address": "84.52.227.36:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 12511.877819000001,
+    "checked_at": "2026-08-13T06:20:31.760583381Z"
+  },
+  {
+    "address": "5.249.165.195:20000",
+    "proxy_type": "socks5",
+    "latency_ms": 12524.815108,
+    "checked_at": "2026-08-13T05:58:32.186577333Z"
+  },
+  {
+    "address": "158.94.216.164:9091",
+    "proxy_type": "socks5",
+    "latency_ms": 12561.664396999999,
+    "checked_at": "2026-08-13T04:46:57.929479452Z"
+  },
+  {
+    "address": "160.250.54.6:9000",
+    "proxy_type": "socks5",
+    "latency_ms": 12868.045833,
+    "checked_at": "2026-08-13T04:47:45.176949227Z"
+  },
+  {
+    "address": "192.9.241.51:26568",
+    "proxy_type": "socks5",
+    "latency_ms": 12891.508247999998,
+    "checked_at": "2026-08-13T05:21:49.146858791Z"
+  },
+  {
+    "address": "157.151.196.142:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 12968.806473,
+    "checked_at": "2026-08-13T04:46:28.647514756Z"
+  },
+  {
+    "address": "144.76.165.249:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 13035.542731,
+    "checked_at": "2026-08-13T04:42:51.040520439Z"
+  },
+  {
+    "address": "38.76.215.92:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 13157.606645,
+    "checked_at": "2026-08-13T05:40:56.628946103Z"
+  },
+  {
+    "address": "151.145.63.243:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 13226.303575,
+    "checked_at": "2026-08-13T04:44:21.410838156Z"
+  },
+  {
+    "address": "89.34.230.218:9082",
+    "proxy_type": "socks5",
+    "latency_ms": 13264.08907,
+    "checked_at": "2026-08-13T06:22:11.411374916Z"
+  },
+  {
+    "address": "171.22.183.64:12347",
+    "proxy_type": "socks5",
+    "latency_ms": 13303.264591,
+    "checked_at": "2026-08-13T05:04:09.330584592Z"
+  },
+  {
+    "address": "92.118.234.124:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 13382.007626,
+    "checked_at": "2026-08-13T06:23:54.398319055Z"
+  },
+  {
+    "address": "45.38.198.127:1080",
+    "proxy_type": "socks5",
+    "latency_ms": 13385.195752,
+    "checked_at": "2026-08-13T05:50:45.750634383Z"
+  },
+  {
+    "address": "144.22.165.206:1088",
+    "proxy_type": "socks5",
+    "latency_ms": 13451.894803,
+    "checked_at": "2026-08-13T04:42:47.6969889Z"
+  },
+  {
+    "address": "81.70.62.145:15163",
+    "proxy_type": "socks5",
+    "latency_ms": 13524.908709,
+    "checked_at": "2026-08-13T06:19:05.913477122Z"
+  },
+  {
+    "address": "150.136.67.40:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 13827.526425,
+    "checked_at": "2026-08-13T04:44:17.749974275Z"
+  },
+  {
+    "address": "43.242.227.10:9053",
+    "proxy_type": "socks5",
+    "latency_ms": 13909.105909999998,
+    "checked_at": "2026-08-13T05:43:08.392340738Z"
+  },
+  {
+    "address": "144.91.83.39:9050",
+    "proxy_type": "socks5",
+    "latency_ms": 13969.20957,
+    "checked_at": "2026-08-13T04:43:03.155387738Z"
+  },
+  {
+    "address": "141.148.65.110:1081",
+    "proxy_type": "socks5",
+    "latency_ms": 14207.838561999999,
+    "checked_at": "2026-08-13T04:42:33.098808765Z"
+  },
+  {
+    "address": "89.34.230.218:9080",
+    "proxy_type": "socks5",
+    "latency_ms": 14545.185462,
+    "checked_at": "2026-08-13T06:22:12.688375953Z"
+  },
+  {
+    "address": "45.74.178.43:9125",
+    "proxy_type": "socks5",
+    "latency_ms": 14618.708445999999,
+    "checked_at": "2026-08-13T05:51:47.215752744Z"
+  },
+  {
+    "address": "116.203.19.71:9083",
+    "proxy_type": "socks5",
+    "latency_ms": 14659.140325999999,
+    "checked_at": "2026-08-13T04:35:03.120152546Z"
+  },
+  {
+    "address": "160.250.54.8:9000",
+    "proxy_type": "socks5",
+    "latency_ms": 14825.18286,
+    "checked_at": "2026-08-13T04:47:47.233671286Z"
+  },
+  {
+    "address": "223.111.182.16:1011",
+    "proxy_type": "socks5",
+    "latency_ms": 14837.518869,
+    "checked_at": "2026-08-13T05:34:23.168099106Z"
   }
 ]
