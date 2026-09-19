@@ -1,4 +1,4 @@
-# Ignore everything
+# Ignore everything by default
 *
 
 # Allow proxies directories and their contents
@@ -10,3 +10,7 @@
 # Allow README and gitignore
 !README.md
 !.gitignore
+
+# Allow the checker source tree (its own .gitignore scopes runtime files)
+!checker/
+!checker/**
