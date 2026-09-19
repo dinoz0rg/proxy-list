@@ -48,6 +48,11 @@ func (m *Manager) Run(ctx context.Context) (int, int, error) {
 		return 0, 0, err
 	}
 
+	// Nothing may be written if the manual target itself is unhealthy.
+	if err := m.checker.ValidateTarget(ctx); err != nil {
+		return 0, 0, fmt.Errorf("manual target preflight: %w", err)
+	}
+
 	raw := scraper.FetchAll(ctx, m.sources)
 	deduped := dedupe(raw)
 	var runErr error
@@ -58,6 +63,17 @@ func (m *Manager) Run(ctx context.Context) (int, int, error) {
 	slog.Info("Total unique scraped proxies", "count", totalScraped)
 
 	checked := m.check(ctx, deduped)
+	if err := ctx.Err(); err != nil {
+		// A cancelled run must not overwrite previously published results.
+		return totalScraped, 0, errors.Join(runErr, err)
+	}
+	if checked.Total() == 0 && m.checker.IsManualMode() {
+		// Zero working proxies is suspicious in manual mode: make sure the target is still healthy
+		// before publishing empty lists.
+		if err := m.checker.ValidateTarget(ctx); err != nil {
+			return totalScraped, 0, errors.Join(runErr, fmt.Errorf("manual target recheck after zero working proxies: %w", err))
+		}
+	}
 	if err := saveChecked(checked); err != nil {
 		runErr = errors.Join(runErr, err)
 	}

@@ -22,6 +22,7 @@ import (
 
 	"proxies-checker/internal/models"
 
+	"golang.org/x/net/html"
 	"golang.org/x/net/proxy"
 )
 
@@ -45,12 +46,20 @@ var ipCheckers = map[string]IPChecker{
 	"ifconfig":  {URL: "https://ifconfig.me/ip", Format: "text"},
 }
 
+// Manual mode verifies that the target page is the real JetBrains site by
+// requiring a <meta name="application-name" content="JetBrains"> element.
+const (
+	manualMetaName    = "application-name"
+	manualMetaContent = "JetBrains"
+
+	// defaultTargetTimeout bounds ValidateTarget when the checker has no timeouts configured.
+	defaultTargetTimeout = 15 * time.Second
+)
+
 var manualChecker = struct {
-	URL        string
-	SuccessKey string
+	URL string
 }{
-	URL:        "https://www.jetbrains.com",
-	SuccessKey: `<meta name="application-name" content="JetBrains">`,
+	URL: "https://www.jetbrains.com",
 }
 
 // FailReason categorises proxy check failures.
@@ -206,6 +215,92 @@ func SwapIPCheckersForTesting(checkers map[string]IPChecker) func() {
 	return func() {
 		ipCheckers = previous
 	}
+}
+
+// SwapManualTargetForTesting replaces the manual-mode target URL and returns a restore function.
+func SwapManualTargetForTesting(url string) func() {
+	previous := manualChecker.URL
+	manualChecker.URL = url
+	return func() {
+		manualChecker.URL = previous
+	}
+}
+
+// BodyHasManualSuccessMarker reports whether the HTML body contains a real
+// <meta> element with name="application-name" and content="JetBrains".
+// Matches inside comments, script/style text or escaped text do not count.
+func BodyHasManualSuccessMarker(r io.Reader) bool {
+	tokenizer := html.NewTokenizer(r)
+	for {
+		switch tokenizer.Next() {
+		case html.ErrorToken:
+			return false
+		case html.StartTagToken, html.SelfClosingTagToken:
+			tagName, hasAttr := tokenizer.TagName()
+			if !hasAttr || !strings.EqualFold(string(tagName), "meta") {
+				continue
+			}
+			var name, content string
+			for {
+				key, val, more := tokenizer.TagAttr()
+				switch strings.ToLower(string(key)) {
+				case "name":
+					name = strings.TrimSpace(string(val))
+				case "content":
+					content = strings.TrimSpace(string(val))
+				}
+				if !more {
+					break
+				}
+			}
+			if name == manualMetaName && content == manualMetaContent {
+				return true
+			}
+		}
+	}
+}
+
+// ValidateTarget checks that the manual-mode target is reachable and still serves
+// the expected page, using a direct (non-proxied) request. It is a no-op outside manual mode.
+func (pc *ProxyChecker) ValidateTarget(ctx context.Context) error {
+	if !pc.manualMode {
+		return nil
+	}
+
+	timeout := pc.timeoutConnect + pc.timeoutRead
+	if timeout <= 0 {
+		timeout = defaultTargetTimeout
+	}
+	ctx, cancel := context.WithTimeout(ctx, timeout)
+	defer cancel()
+
+	targetURL := manualChecker.URL
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, targetURL, nil)
+	if err != nil {
+		return fmt.Errorf("manual target %s: build request: %w", targetURL, err)
+	}
+
+	client := &http.Client{Timeout: timeout}
+	defer client.CloseIdleConnections()
+
+	resp, err := client.Do(req)
+	if err != nil {
+		if ctxErr := ctx.Err(); ctxErr != nil {
+			return fmt.Errorf("manual target %s: %w", targetURL, ctxErr)
+		}
+		return fmt.Errorf("manual target %s: %w", targetURL, err)
+	}
+	defer func() {
+		_ = resp.Body.Close()
+	}()
+
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("manual target %s returned HTTP %d", targetURL, resp.StatusCode)
+	}
+	if !BodyHasManualSuccessMarker(io.LimitReader(resp.Body, maxBodyBytes)) {
+		return fmt.Errorf("manual target %s: success marker <meta name=%q content=%q> not found", targetURL, manualMetaName, manualMetaContent)
+	}
+	return nil
 }
 
 func detectRealIPValue(ctx context.Context) (string, string) {
@@ -427,11 +522,7 @@ func (pc *ProxyChecker) checkManual(ctx context.Context, client *http.Client, pr
 	if resp.StatusCode != http.StatusOK {
 		return nil, FailHTTPError
 	}
-	body, err := io.ReadAll(io.LimitReader(resp.Body, maxBodyBytes))
-	if err != nil {
-		return nil, FailOther
-	}
-	if strings.Contains(string(body), manualChecker.SuccessKey) {
+	if BodyHasManualSuccessMarker(io.LimitReader(resp.Body, maxBodyBytes)) {
 		cp := models.NewCheckedProxy(proxyAddr, proxyType.String(), elapsed.Seconds()*1000)
 		return &cp, ""
 	}
